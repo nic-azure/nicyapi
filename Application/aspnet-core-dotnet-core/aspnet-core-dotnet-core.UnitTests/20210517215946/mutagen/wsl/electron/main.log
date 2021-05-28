@@ -1,0 +1,164 @@
+[2021-05-17 23:17:00.633] [verbose] { status: 'running' }
+[2021-05-17 23:17:00.671] [verbose] GET /diagnostics/status params = null
+[2021-05-17 23:17:00.743] [info]  Response success for /diagnostics/status
+[2021-05-17 23:17:00.759] [info]  Response for GET /diagnostics/status
+[2021-05-17 23:17:00.775] [verbose] { status: 'running' }
+[2021-05-17 23:17:07.188] [verbose] GET /diagnostics/status params = null
+[2021-05-17 23:17:07.838] [info]  Response success for /diagnostics/status
+[2021-05-17 23:17:07.932] [info]  Response for GET /diagnostics/status
+[2021-05-17 23:17:08.285] [verbose] { status: 'running' }
+[2021-05-17 23:17:11.282] [verbose] GET /diagnostics/status params = null
+[2021-05-17 23:17:11.510] [info]  Response success for /diagnostics/status
+[2021-05-17 23:17:11.577] [info]  Response for GET /diagnostics/status
+[2021-05-17 23:17:11.693] [verbose] { status: 'running' }
+[2021-05-17 23:17:16.276] [verbose] GET /diagnostics/status params = null
+[2021-05-17 23:17:16.783] [info]  Response success for /diagnostics/status
+[2021-05-17 23:17:16.888] [info]  Response for GET /diagnostics/status
+[2021-05-17 23:17:17.090] [verbose] { status: 'running' }
+[2021-05-17 23:18:17.004] [verbose] GET /diagnostics/status params = null
+[2021-05-17 23:18:17.165] [info]  Response success for /diagnostics/status
+[2021-05-17 23:18:17.203] [info]  Response for GET /diagnostics/status
+[2021-05-17 23:18:17.205] [verbose] { status: 'running' }
+[2021-05-17 23:18:25.565] [verbose] GET /diagnostics/status params = null
+[2021-05-17 23:18:25.804] [info]  Response success for /diagnostics/status
+[2021-05-17 23:18:25.882] [info]  Response for GET /diagnostics/status
+[2021-05-17 23:18:26.122] [verbose] { status: 'running' }
+[2021-05-17 23:21:37.204] [verbose] GET /diagnostics/status params = null
+[2021-05-17 23:21:37.357] [info]  Response error for /diagnostics/status: Request failed with status code 500
+[2021-05-17 23:21:37.427] [error] !!! get /diagnostics/status
+[2021-05-17 23:21:37.429] [error] Error response from server
+[2021-05-17 23:21:37.432] [error] { message: 'Internal Server Error' }
+[2021-05-17 23:21:37.440] [error] 500
+[2021-05-17 23:21:37.448] [error] {
+  'content-type': 'application/json; charset=UTF-8',
+  date: 'Mon, 17 May 2021 21:21:37 GMT',
+  'content-length': '36',
+  connection: 'close'
+}
+[2021-05-17 23:22:46.967] [verbose] GET /settings params = null
+[2021-05-17 23:22:46.970] [verbose] GET /features params = null
+[2021-05-17 23:22:47.065] [info]  Response success for /features
+[2021-05-17 23:22:47.150] [info]  Response for GET /features
+[2021-05-17 23:22:47.156] [verbose] {
+  ApplicationDesigner: {
+    name: 'Application Designer',
+    label: 'Enable Application Designer',
+    enabled: false,
+    type: 1
+  },
+  DevEnvironmentsV0: {
+    name: 'Painted Door Dev Environments',
+    label: 'Enable Painted Door Dev Environments',
+    description: 'Display Painted Door Dev Environments in the dashboard',
+    enabled: true,
+    type: 1
+  },
+  ProUser: {
+    name: 'ProUser',
+    label: 'free',
+    description: 'You can upgrade your current plan [here](URL)',
+    enabled: false,
+    type: 3
+  },
+  UpdateNotificationBox: {
+    name: 'Update Notification Box',
+    label: 'Update Notification Box',
+    description: 'Enable update notification box in the UI',
+    enabled: false,
+    type: 1
+  },
+  UpdateRedesign: {
+    name: 'Update Redesign',
+    label: 'Enable Update Redesign',
+    description: 'Enable Update Redesign',
+    enabled: true,
+    type: 1
+  },
+  VolumesPanel: {
+    name: 'Volumes panel',
+    label: 'Enable Volumes panel',
+    description: 'Display the container volumes in the dashboard',
+    enabled: false,
+    type: 1
+  },
+  grpcfuseV2: {
+    name: 'Grpcfuse',
+    label: 'Use grpcfuse for filesharing by default',
+    description: 'Switch off to use the legacy osxfs file sharing instead.',
+    enabled: true,
+    type: 1
+  },
+  mutagenV0: {
+    name: 'Mutagen',
+    label: 'Two-way file synchronisation',
+    description: 'Use Mutagen to synchronize files in a container with your local disk.',
+    enabled: false,
+    type: 1
+  }
+}
+[2021-05-17 23:22:47.189] [info]  Response success for /settings
+[2021-05-17 23:22:47.247] [info]  Response for GET /settings
+[2021-05-17 23:22:47.251] [verbose] {
+  desktop: {
+    disableUpdate: false,
+    analyticsEnabled: true,
+    autoStart: true,
+    backupData: false,
+    disableTips: false,
+    tipLastViewedTime: 0,
+    tipLastId: 0,
+    updateAvailableTime: 0,
+    updatePopupAppearanceTime: 0,
+    exportInsecureDaemon: false,
+    useCredentialHelper: true,
+    wslEngineEnabled: true,
+    wslPreconditionMessage: null,
+    openUIOnStartupDisabled: false,
+    displayedTutorial: false
+  },
+  vm: {
+    daemon: '{\r\n' +
+      '  "registry-mirrors": [],\r\n' +
+      '  "insecure-registries": [],\r\n' +
+      '  "debug": false,\r\n' +
+      '  "experimental": false,\r\n' +
+      '  "features": {\r\n' +
+      '    "buildkit": true\r\n' +
+      '  },\r\n' +
+      '  "builder": {\r\n' +
+      '    "gc": {\r\n' +
+      '      "enabled": true,\r\n' +
+      '      "defaultKeepStorage": "20GB"\r\n' +
+      '    }\r\n' +
+      '  }\r\n' +
+      '}',
+    fileSharing: [],
+    kubernetes: { enabled: false, showSystemContainers: false },
+    network: {
+      automaticDNS: true,
+      dns: '8.8.8.8',
+      socksProxyPort: 0,
+      vpnkitCIDR: '192.168.65.0/28'
+    },
+    proxy: { mode: 'system', http: '', https: '', exclude: '' },
+    resources: {
+      cpus: { value: 2, min: 1, max: 4 },
+      memoryMiB: { value: 2048, min: 1024, max: 5888 },
+      swapMiB: { value: 1024, min: 512, max: 4096 },
+      diskSizeMiB: { value: 65536, used: 0 },
+      dataFolder: 'C:\\ProgramData\\DockerDesktop\\vm-data'
+    }
+  },
+  wslIntegration: { distros: [], enableIntegrationWithDefaultWslDistro: true }
+}
+[2021-05-17 23:22:47.272] [verbose] GET /system/disk-usage params = { path: 'C:\\ProgramData\\DockerDesktop\\vm-data' }
+[2021-05-17 23:22:47.374] [info]  Response success for /system/disk-usage
+[2021-05-17 23:22:47.441] [info]  Response for GET /system/disk-usage?path=C:%5CProgramData%5CDockerDesktop%5Cvm-data
+[2021-05-17 23:22:47.448] [verbose] {
+  path: 'C:\\ProgramData\\DockerDesktop\\vm-data',
+  usedMiB: 0,
+  freeMiB: 62496
+}
+[2021-05-17 23:27:58.876] [info]  quitting application
+[2021-05-17 23:27:58.893] [debug] unregister from backend \\.\pipe\dockerFrontendApiServer
+[2021-05-17 23:27:58.948] [verbose] DELETE /notifications/subscriptions params = { address: '\\\\.\\pipe\\dockerFrontendApiServer' }

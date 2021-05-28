@@ -1,0 +1,435 @@
+2021-04-27T16:58:29Z binfmt.out {
+2021-04-27T16:58:29Z binfmt.out   "supported": [
+2021-04-27T16:58:29Z binfmt.out     "linux/amd64"
+2021-04-27T16:58:29Z binfmt.out   ],
+2021-04-27T16:58:29Z binfmt.out   "emulators": [
+2021-04-27T16:58:29Z binfmt.out     "WSLInterop",
+2021-04-27T16:58:29Z binfmt.out     "qemu-aarch64",
+2021-04-27T16:58:29Z binfmt.out     "qemu-arm",
+2021-04-27T16:58:29Z binfmt.out     "qemu-mips64",
+2021-04-27T16:58:29Z binfmt.out     "qemu-mips64el",
+2021-04-27T16:58:29Z binfmt.out     "qemu-ppc64le",
+2021-04-27T16:58:29Z binfmt.out     "qemu-riscv64",
+2021-04-27T16:58:29Z binfmt.out     "qemu-s390x"
+2021-04-27T16:58:29Z binfmt.out   ]
+2021-04-27T16:58:29Z binfmt.out }
+2021-04-27T17:09:31Z binfmt.out {
+2021-04-27T17:09:31Z binfmt.out   "supported": [
+2021-04-27T17:09:31Z binfmt.out     "linux/amd64"
+2021-04-27T17:09:31Z binfmt.out   ],
+2021-04-27T17:09:31Z binfmt.out   "emulators": [
+2021-04-27T17:09:31Z binfmt.out     "WSLInterop",
+2021-04-27T17:09:31Z binfmt.out     "qemu-aarch64",
+2021-04-27T17:09:31Z binfmt.out     "qemu-arm",
+2021-04-27T17:09:31Z binfmt.out     "qemu-mips64",
+2021-04-27T17:09:31Z binfmt.out     "qemu-mips64el",
+2021-04-27T17:09:31Z binfmt.out     "qemu-ppc64le",
+2021-04-27T17:09:31Z binfmt.out     "qemu-riscv64",
+2021-04-27T17:09:31Z binfmt.out     "qemu-s390x"
+2021-04-27T17:09:31Z binfmt.out   ]
+2021-04-27T17:09:31Z binfmt.out }
+2021-04-28T03:41:14Z binfmt.out {
+2021-04-28T03:41:14Z binfmt.out   "supported": [
+2021-04-28T03:41:14Z binfmt.out     "linux/amd64"
+2021-04-28T03:41:14Z binfmt.out   ],
+2021-04-28T03:41:14Z binfmt.out   "emulators": [
+2021-04-28T03:41:14Z binfmt.out     "WSLInterop",
+2021-04-28T03:41:14Z binfmt.out     "qemu-aarch64",
+2021-04-28T03:41:14Z binfmt.out     "qemu-arm",
+2021-04-28T03:41:14Z binfmt.out     "qemu-mips64",
+2021-04-28T03:41:14Z binfmt.out     "qemu-mips64el",
+2021-04-28T03:41:14Z binfmt.out     "qemu-ppc64le",
+2021-04-28T03:41:14Z binfmt.out     "qemu-riscv64",
+2021-04-28T03:41:14Z binfmt.out     "qemu-s390x"
+2021-04-28T03:41:14Z binfmt.out   ]
+2021-04-28T03:41:14Z binfmt.out }
+2021-04-28T06:54:14Z binfmt.out {
+2021-04-28T06:54:14Z binfmt.out   "supported": [
+2021-04-28T06:54:14Z binfmt.out     "linux/amd64"
+2021-04-28T06:54:14Z binfmt.out   ],
+2021-04-28T06:54:14Z binfmt.out   "emulators": [
+2021-04-28T06:54:14Z binfmt.out     "WSLInterop",
+2021-04-28T06:54:14Z binfmt.out     "qemu-aarch64",
+2021-04-28T06:54:14Z binfmt.out     "qemu-arm",
+2021-04-28T06:54:14Z binfmt.out     "qemu-mips64",
+2021-04-28T06:54:14Z binfmt.out     "qemu-mips64el",
+2021-04-28T06:54:14Z binfmt.out     "qemu-ppc64le",
+2021-04-28T06:54:14Z binfmt.out     "qemu-riscv64",
+2021-04-28T06:54:14Z binfmt.out     "qemu-s390x"
+2021-04-28T06:54:14Z binfmt.out   ]
+2021-04-28T06:54:14Z binfmt.out }
+2021-04-28T09:33:41Z binfmt.out {
+2021-04-28T09:33:41Z binfmt.out   "supported": [
+2021-04-28T09:33:41Z binfmt.out     "linux/amd64"
+2021-04-28T09:33:41Z binfmt.out   ],
+2021-04-28T09:33:41Z binfmt.out   "emulators": [
+2021-04-28T09:33:41Z binfmt.out     "WSLInterop",
+2021-04-28T09:33:41Z binfmt.out     "qemu-aarch64",
+2021-04-28T09:33:41Z binfmt.out     "qemu-arm",
+2021-04-28T09:33:41Z binfmt.out     "qemu-mips64",
+2021-04-28T09:33:41Z binfmt.out     "qemu-mips64el",
+2021-04-28T09:33:41Z binfmt.out     "qemu-ppc64le",
+2021-04-28T09:33:41Z binfmt.out     "qemu-riscv64",
+2021-04-28T09:33:41Z binfmt.out     "qemu-s390x"
+2021-04-28T09:33:41Z binfmt.out   ]
+2021-04-28T09:33:41Z binfmt.out }
+2021-04-28T11:30:04Z binfmt.out {
+2021-04-28T11:30:04Z binfmt.out   "supported": [
+2021-04-28T11:30:04Z binfmt.out     "linux/amd64"
+2021-04-28T11:30:04Z binfmt.out   ],
+2021-04-28T11:30:04Z binfmt.out   "emulators": [
+2021-04-28T11:30:04Z binfmt.out     "WSLInterop",
+2021-04-28T11:30:04Z binfmt.out     "qemu-aarch64",
+2021-04-28T11:30:04Z binfmt.out     "qemu-arm",
+2021-04-28T11:30:04Z binfmt.out     "qemu-mips64",
+2021-04-28T11:30:04Z binfmt.out     "qemu-mips64el",
+2021-04-28T11:30:04Z binfmt.out     "qemu-ppc64le",
+2021-04-28T11:30:04Z binfmt.out     "qemu-riscv64",
+2021-04-28T11:30:04Z binfmt.out     "qemu-s390x"
+2021-04-28T11:30:04Z binfmt.out   ]
+2021-04-28T11:30:04Z binfmt.out }
+2021-04-28T16:09:06Z binfmt.out {
+2021-04-28T16:09:06Z binfmt.out   "supported": [
+2021-04-28T16:09:06Z binfmt.out     "linux/amd64"
+2021-04-28T16:09:06Z binfmt.out   ],
+2021-04-28T16:09:06Z binfmt.out   "emulators": [
+2021-04-28T16:09:06Z binfmt.out     "WSLInterop",
+2021-04-28T16:09:06Z binfmt.out     "qemu-aarch64",
+2021-04-28T16:09:06Z binfmt.out     "qemu-arm",
+2021-04-28T16:09:06Z binfmt.out     "qemu-mips64",
+2021-04-28T16:09:06Z binfmt.out     "qemu-mips64el",
+2021-04-28T16:09:06Z binfmt.out     "qemu-ppc64le",
+2021-04-28T16:09:06Z binfmt.out     "qemu-riscv64",
+2021-04-28T16:09:06Z binfmt.out     "qemu-s390x"
+2021-04-28T16:09:06Z binfmt.out   ]
+2021-04-28T16:09:06Z binfmt.out }
+2021-04-29T00:56:33Z binfmt.out {
+2021-04-29T00:56:33Z binfmt.out   "supported": [
+2021-04-29T00:56:33Z binfmt.out     "linux/amd64"
+2021-04-29T00:56:33Z binfmt.out   ],
+2021-04-29T00:56:33Z binfmt.out   "emulators": [
+2021-04-29T00:56:33Z binfmt.out     "WSLInterop",
+2021-04-29T00:56:33Z binfmt.out     "qemu-aarch64",
+2021-04-29T00:56:33Z binfmt.out     "qemu-arm",
+2021-04-29T00:56:33Z binfmt.out     "qemu-mips64",
+2021-04-29T00:56:33Z binfmt.out     "qemu-mips64el",
+2021-04-29T00:56:33Z binfmt.out     "qemu-ppc64le",
+2021-04-29T00:56:33Z binfmt.out     "qemu-riscv64",
+2021-04-29T00:56:33Z binfmt.out     "qemu-s390x"
+2021-04-29T00:56:33Z binfmt.out   ]
+2021-04-29T00:56:33Z binfmt.out }
+2021-04-29T10:45:20Z binfmt.out {
+2021-04-29T10:45:20Z binfmt.out   "supported": [
+2021-04-29T10:45:20Z binfmt.out     "linux/amd64"
+2021-04-29T10:45:20Z binfmt.out   ],
+2021-04-29T10:45:20Z binfmt.out   "emulators": [
+2021-04-29T10:45:20Z binfmt.out     "WSLInterop",
+2021-04-29T10:45:20Z binfmt.out     "qemu-aarch64",
+2021-04-29T10:45:20Z binfmt.out     "qemu-arm",
+2021-04-29T10:45:20Z binfmt.out     "qemu-mips64",
+2021-04-29T10:45:20Z binfmt.out     "qemu-mips64el",
+2021-04-29T10:45:20Z binfmt.out     "qemu-ppc64le",
+2021-04-29T10:45:20Z binfmt.out     "qemu-riscv64",
+2021-04-29T10:45:20Z binfmt.out     "qemu-s390x"
+2021-04-29T10:45:20Z binfmt.out   ]
+2021-04-29T10:45:20Z binfmt.out }
+2021-04-29T15:39:31Z binfmt.out {
+2021-04-29T15:39:31Z binfmt.out   "supported": [
+2021-04-29T15:39:31Z binfmt.out     "linux/amd64"
+2021-04-29T15:39:31Z binfmt.out   ],
+2021-04-29T15:39:31Z binfmt.out   "emulators": [
+2021-04-29T15:39:31Z binfmt.out     "WSLInterop",
+2021-04-29T15:39:31Z binfmt.out     "qemu-aarch64",
+2021-04-29T15:39:31Z binfmt.out     "qemu-arm",
+2021-04-29T15:39:31Z binfmt.out     "qemu-mips64",
+2021-04-29T15:39:31Z binfmt.out     "qemu-mips64el",
+2021-04-29T15:39:31Z binfmt.out     "qemu-ppc64le",
+2021-04-29T15:39:31Z binfmt.out     "qemu-riscv64",
+2021-04-29T15:39:31Z binfmt.out     "qemu-s390x"
+2021-04-29T15:39:31Z binfmt.out   ]
+2021-04-29T15:39:31Z binfmt.out }
+2021-04-30T05:34:24Z binfmt.out {
+2021-04-30T05:34:24Z binfmt.out   "supported": [
+2021-04-30T05:34:24Z binfmt.out     "linux/amd64"
+2021-04-30T05:34:24Z binfmt.out   ],
+2021-04-30T05:34:24Z binfmt.out   "emulators": [
+2021-04-30T05:34:24Z binfmt.out     "WSLInterop",
+2021-04-30T05:34:24Z binfmt.out     "qemu-aarch64",
+2021-04-30T05:34:24Z binfmt.out     "qemu-arm",
+2021-04-30T05:34:24Z binfmt.out     "qemu-mips64",
+2021-04-30T05:34:24Z binfmt.out     "qemu-mips64el",
+2021-04-30T05:34:24Z binfmt.out     "qemu-ppc64le",
+2021-04-30T05:34:24Z binfmt.out     "qemu-riscv64",
+2021-04-30T05:34:24Z binfmt.out     "qemu-s390x"
+2021-04-30T05:34:24Z binfmt.out   ]
+2021-04-30T05:34:24Z binfmt.out }
+2021-04-30T07:06:40Z binfmt.out {
+2021-04-30T07:06:40Z binfmt.out   "supported": [
+2021-04-30T07:06:40Z binfmt.out     "linux/amd64"
+2021-04-30T07:06:40Z binfmt.out   ],
+2021-04-30T07:06:40Z binfmt.out   "emulators": [
+2021-04-30T07:06:40Z binfmt.out     "WSLInterop",
+2021-04-30T07:06:40Z binfmt.out     "qemu-aarch64",
+2021-04-30T07:06:40Z binfmt.out     "qemu-arm",
+2021-04-30T07:06:40Z binfmt.out     "qemu-mips64",
+2021-04-30T07:06:40Z binfmt.out     "qemu-mips64el",
+2021-04-30T07:06:40Z binfmt.out     "qemu-ppc64le",
+2021-04-30T07:06:40Z binfmt.out     "qemu-riscv64",
+2021-04-30T07:06:40Z binfmt.out     "qemu-s390x"
+2021-04-30T07:06:40Z binfmt.out   ]
+2021-04-30T07:06:40Z binfmt.out }
+2021-05-02T08:52:42Z binfmt.out {
+2021-05-02T08:52:42Z binfmt.out   "supported": [
+2021-05-02T08:52:42Z binfmt.out     "linux/amd64"
+2021-05-02T08:52:42Z binfmt.out   ],
+2021-05-02T08:52:42Z binfmt.out   "emulators": [
+2021-05-02T08:52:42Z binfmt.out     "WSLInterop",
+2021-05-02T08:52:42Z binfmt.out     "qemu-aarch64",
+2021-05-02T08:52:42Z binfmt.out     "qemu-arm",
+2021-05-02T08:52:42Z binfmt.out     "qemu-mips64",
+2021-05-02T08:52:42Z binfmt.out     "qemu-mips64el",
+2021-05-02T08:52:42Z binfmt.out     "qemu-ppc64le",
+2021-05-02T08:52:42Z binfmt.out     "qemu-riscv64",
+2021-05-02T08:52:42Z binfmt.out     "qemu-s390x"
+2021-05-02T08:52:42Z binfmt.out   ]
+2021-05-02T08:52:42Z binfmt.out }
+2021-05-04T10:47:30Z binfmt.out {
+2021-05-04T10:47:30Z binfmt.out   "supported": [
+2021-05-04T10:47:30Z binfmt.out     "linux/amd64"
+2021-05-04T10:47:30Z binfmt.out   ],
+2021-05-04T10:47:30Z binfmt.out   "emulators": [
+2021-05-04T10:47:30Z binfmt.out     "WSLInterop",
+2021-05-04T10:47:30Z binfmt.out     "qemu-aarch64",
+2021-05-04T10:47:30Z binfmt.out     "qemu-arm",
+2021-05-04T10:47:30Z binfmt.out     "qemu-mips64",
+2021-05-04T10:47:30Z binfmt.out     "qemu-mips64el",
+2021-05-04T10:47:30Z binfmt.out     "qemu-ppc64le",
+2021-05-04T10:47:30Z binfmt.out     "qemu-riscv64",
+2021-05-04T10:47:30Z binfmt.out     "qemu-s390x"
+2021-05-04T10:47:30Z binfmt.out   ]
+2021-05-04T10:47:30Z binfmt.out }
+2021-05-05T15:09:35Z binfmt.out {
+2021-05-05T15:09:35Z binfmt.out   "supported": [
+2021-05-05T15:09:35Z binfmt.out     "linux/amd64"
+2021-05-05T15:09:35Z binfmt.out   ],
+2021-05-05T15:09:35Z binfmt.out   "emulators": [
+2021-05-05T15:09:35Z binfmt.out     "WSLInterop",
+2021-05-05T15:09:35Z binfmt.out     "qemu-aarch64",
+2021-05-05T15:09:35Z binfmt.out     "qemu-arm",
+2021-05-05T15:09:35Z binfmt.out     "qemu-mips64",
+2021-05-05T15:09:35Z binfmt.out     "qemu-mips64el",
+2021-05-05T15:09:35Z binfmt.out     "qemu-ppc64le",
+2021-05-05T15:09:35Z binfmt.out     "qemu-riscv64",
+2021-05-05T15:09:35Z binfmt.out     "qemu-s390x"
+2021-05-05T15:09:35Z binfmt.out   ]
+2021-05-05T15:09:35Z binfmt.out }
+2021-05-06T09:25:07Z binfmt.out {
+2021-05-06T09:25:07Z binfmt.out   "supported": [
+2021-05-06T09:25:07Z binfmt.out     "linux/amd64"
+2021-05-06T09:25:07Z binfmt.out   ],
+2021-05-06T09:25:07Z binfmt.out   "emulators": [
+2021-05-06T09:25:07Z binfmt.out     "WSLInterop",
+2021-05-06T09:25:07Z binfmt.out     "qemu-aarch64",
+2021-05-06T09:25:07Z binfmt.out     "qemu-arm",
+2021-05-06T09:25:07Z binfmt.out     "qemu-mips64",
+2021-05-06T09:25:07Z binfmt.out     "qemu-mips64el",
+2021-05-06T09:25:07Z binfmt.out     "qemu-ppc64le",
+2021-05-06T09:25:07Z binfmt.out     "qemu-riscv64",
+2021-05-06T09:25:07Z binfmt.out     "qemu-s390x"
+2021-05-06T09:25:07Z binfmt.out   ]
+2021-05-06T09:25:07Z binfmt.out }
+2021-05-07T03:22:05Z binfmt.out {
+2021-05-07T03:22:05Z binfmt.out   "supported": [
+2021-05-07T03:22:05Z binfmt.out     "linux/amd64"
+2021-05-07T03:22:05Z binfmt.out   ],
+2021-05-07T03:22:05Z binfmt.out   "emulators": [
+2021-05-07T03:22:05Z binfmt.out     "WSLInterop",
+2021-05-07T03:22:05Z binfmt.out     "qemu-aarch64",
+2021-05-07T03:22:05Z binfmt.out     "qemu-arm",
+2021-05-07T03:22:05Z binfmt.out     "qemu-mips64",
+2021-05-07T03:22:05Z binfmt.out     "qemu-mips64el",
+2021-05-07T03:22:05Z binfmt.out     "qemu-ppc64le",
+2021-05-07T03:22:05Z binfmt.out     "qemu-riscv64",
+2021-05-07T03:22:05Z binfmt.out     "qemu-s390x"
+2021-05-07T03:22:05Z binfmt.out   ]
+2021-05-07T03:22:05Z binfmt.out }
+2021-05-07T05:30:01Z binfmt.out {
+2021-05-07T05:30:01Z binfmt.out   "supported": [
+2021-05-07T05:30:01Z binfmt.out     "linux/amd64"
+2021-05-07T05:30:01Z binfmt.out   ],
+2021-05-07T05:30:01Z binfmt.out   "emulators": [
+2021-05-07T05:30:01Z binfmt.out     "WSLInterop",
+2021-05-07T05:30:01Z binfmt.out     "qemu-aarch64",
+2021-05-07T05:30:01Z binfmt.out     "qemu-arm",
+2021-05-07T05:30:01Z binfmt.out     "qemu-mips64",
+2021-05-07T05:30:01Z binfmt.out     "qemu-mips64el",
+2021-05-07T05:30:01Z binfmt.out     "qemu-ppc64le",
+2021-05-07T05:30:01Z binfmt.out     "qemu-riscv64",
+2021-05-07T05:30:01Z binfmt.out     "qemu-s390x"
+2021-05-07T05:30:01Z binfmt.out   ]
+2021-05-07T05:30:01Z binfmt.out }
+2021-05-07T09:48:08Z binfmt.out {
+2021-05-07T09:48:08Z binfmt.out   "supported": [
+2021-05-07T09:48:08Z binfmt.out     "linux/amd64"
+2021-05-07T09:48:08Z binfmt.out   ],
+2021-05-07T09:48:08Z binfmt.out   "emulators": [
+2021-05-07T09:48:08Z binfmt.out     "WSLInterop",
+2021-05-07T09:48:08Z binfmt.out     "qemu-aarch64",
+2021-05-07T09:48:08Z binfmt.out     "qemu-arm",
+2021-05-07T09:48:08Z binfmt.out     "qemu-mips64",
+2021-05-07T09:48:08Z binfmt.out     "qemu-mips64el",
+2021-05-07T09:48:08Z binfmt.out     "qemu-ppc64le",
+2021-05-07T09:48:08Z binfmt.out     "qemu-riscv64",
+2021-05-07T09:48:08Z binfmt.out     "qemu-s390x"
+2021-05-07T09:48:08Z binfmt.out   ]
+2021-05-07T09:48:08Z binfmt.out }
+2021-05-07T11:31:27Z binfmt.out {
+2021-05-07T11:31:27Z binfmt.out   "supported": [
+2021-05-07T11:31:27Z binfmt.out     "linux/amd64"
+2021-05-07T11:31:27Z binfmt.out   ],
+2021-05-07T11:31:27Z binfmt.out   "emulators": [
+2021-05-07T11:31:27Z binfmt.out     "WSLInterop",
+2021-05-07T11:31:27Z binfmt.out     "qemu-aarch64",
+2021-05-07T11:31:27Z binfmt.out     "qemu-arm",
+2021-05-07T11:31:27Z binfmt.out     "qemu-mips64",
+2021-05-07T11:31:27Z binfmt.out     "qemu-mips64el",
+2021-05-07T11:31:27Z binfmt.out     "qemu-ppc64le",
+2021-05-07T11:31:27Z binfmt.out     "qemu-riscv64",
+2021-05-07T11:31:27Z binfmt.out     "qemu-s390x"
+2021-05-07T11:31:27Z binfmt.out   ]
+2021-05-07T11:31:27Z binfmt.out }
+2021-05-07T11:32:45Z binfmt.out {
+2021-05-07T11:32:45Z binfmt.out   "supported": [
+2021-05-07T11:32:45Z binfmt.out     "linux/amd64"
+2021-05-07T11:32:45Z binfmt.out   ],
+2021-05-07T11:32:45Z binfmt.out   "emulators": [
+2021-05-07T11:32:45Z binfmt.out     "WSLInterop",
+2021-05-07T11:32:45Z binfmt.out     "qemu-aarch64",
+2021-05-07T11:32:45Z binfmt.out     "qemu-arm",
+2021-05-07T11:32:45Z binfmt.out     "qemu-mips64",
+2021-05-07T11:32:45Z binfmt.out     "qemu-mips64el",
+2021-05-07T11:32:45Z binfmt.out     "qemu-ppc64le",
+2021-05-07T11:32:45Z binfmt.out     "qemu-riscv64",
+2021-05-07T11:32:45Z binfmt.out     "qemu-s390x"
+2021-05-07T11:32:45Z binfmt.out   ]
+2021-05-07T11:32:45Z binfmt.out }
+2021-05-07T11:37:40Z binfmt.out {
+2021-05-07T11:37:40Z binfmt.out   "supported": [
+2021-05-07T11:37:40Z binfmt.out     "linux/amd64"
+2021-05-07T11:37:40Z binfmt.out   ],
+2021-05-07T11:37:40Z binfmt.out   "emulators": [
+2021-05-07T11:37:40Z binfmt.out     "WSLInterop",
+2021-05-07T11:37:40Z binfmt.out     "qemu-aarch64",
+2021-05-07T11:37:40Z binfmt.out     "qemu-arm",
+2021-05-07T11:37:40Z binfmt.out     "qemu-mips64",
+2021-05-07T11:37:40Z binfmt.out     "qemu-mips64el",
+2021-05-07T11:37:40Z binfmt.out     "qemu-ppc64le",
+2021-05-07T11:37:40Z binfmt.out     "qemu-riscv64",
+2021-05-07T11:37:40Z binfmt.out     "qemu-s390x"
+2021-05-07T11:37:40Z binfmt.out   ]
+2021-05-07T11:37:40Z binfmt.out }
+2021-05-07T12:07:59Z binfmt.out {
+2021-05-07T12:07:59Z binfmt.out   "supported": [
+2021-05-07T12:07:59Z binfmt.out     "linux/amd64"
+2021-05-07T12:07:59Z binfmt.out   ],
+2021-05-07T12:07:59Z binfmt.out   "emulators": [
+2021-05-07T12:07:59Z binfmt.out     "WSLInterop",
+2021-05-07T12:07:59Z binfmt.out     "qemu-aarch64",
+2021-05-07T12:07:59Z binfmt.out     "qemu-arm",
+2021-05-07T12:07:59Z binfmt.out     "qemu-mips64",
+2021-05-07T12:07:59Z binfmt.out     "qemu-mips64el",
+2021-05-07T12:07:59Z binfmt.out     "qemu-ppc64le",
+2021-05-07T12:07:59Z binfmt.out     "qemu-riscv64",
+2021-05-07T12:07:59Z binfmt.out     "qemu-s390x"
+2021-05-07T12:07:59Z binfmt.out   ]
+2021-05-07T12:07:59Z binfmt.out }
+2021-05-07T23:46:04Z binfmt.out {
+2021-05-07T23:46:04Z binfmt.out   "supported": [
+2021-05-07T23:46:04Z binfmt.out     "linux/amd64"
+2021-05-07T23:46:04Z binfmt.out   ],
+2021-05-07T23:46:04Z binfmt.out   "emulators": [
+2021-05-07T23:46:04Z binfmt.out     "WSLInterop",
+2021-05-07T23:46:04Z binfmt.out     "qemu-aarch64",
+2021-05-07T23:46:04Z binfmt.out     "qemu-arm",
+2021-05-07T23:46:04Z binfmt.out     "qemu-mips64",
+2021-05-07T23:46:04Z binfmt.out     "qemu-mips64el",
+2021-05-07T23:46:04Z binfmt.out     "qemu-ppc64le",
+2021-05-07T23:46:04Z binfmt.out     "qemu-riscv64",
+2021-05-07T23:46:04Z binfmt.out     "qemu-s390x"
+2021-05-07T23:46:04Z binfmt.out   ]
+2021-05-07T23:46:04Z binfmt.out }
+2021-05-08T11:04:03Z binfmt.out {
+2021-05-08T11:04:03Z binfmt.out   "supported": [
+2021-05-08T11:04:03Z binfmt.out     "linux/amd64"
+2021-05-08T11:04:03Z binfmt.out   ],
+2021-05-08T11:04:03Z binfmt.out   "emulators": [
+2021-05-08T11:04:03Z binfmt.out     "WSLInterop",
+2021-05-08T11:04:03Z binfmt.out     "qemu-aarch64",
+2021-05-08T11:04:03Z binfmt.out     "qemu-arm",
+2021-05-08T11:04:03Z binfmt.out     "qemu-mips64",
+2021-05-08T11:04:03Z binfmt.out     "qemu-mips64el",
+2021-05-08T11:04:03Z binfmt.out     "qemu-ppc64le",
+2021-05-08T11:04:03Z binfmt.out     "qemu-riscv64",
+2021-05-08T11:04:03Z binfmt.out     "qemu-s390x"
+2021-05-08T11:04:03Z binfmt.out   ]
+2021-05-08T11:04:03Z binfmt.out }
+2021-05-10T09:53:27Z binfmt.out {
+2021-05-10T09:53:27Z binfmt.out   "supported": [
+2021-05-10T09:53:27Z binfmt.out     "linux/amd64"
+2021-05-10T09:53:27Z binfmt.out   ],
+2021-05-10T09:53:27Z binfmt.out   "emulators": [
+2021-05-10T09:53:27Z binfmt.out     "WSLInterop",
+2021-05-10T09:53:27Z binfmt.out     "qemu-aarch64",
+2021-05-10T09:53:27Z binfmt.out     "qemu-arm",
+2021-05-10T09:53:27Z binfmt.out     "qemu-mips64",
+2021-05-10T09:53:27Z binfmt.out     "qemu-mips64el",
+2021-05-10T09:53:27Z binfmt.out     "qemu-ppc64le",
+2021-05-10T09:53:27Z binfmt.out     "qemu-riscv64",
+2021-05-10T09:53:27Z binfmt.out     "qemu-s390x"
+2021-05-10T09:53:27Z binfmt.out   ]
+2021-05-10T09:53:27Z binfmt.out }
+2021-05-11T11:15:22Z binfmt.out {
+2021-05-11T11:15:22Z binfmt.out   "supported": [
+2021-05-11T11:15:22Z binfmt.out     "linux/amd64"
+2021-05-11T11:15:22Z binfmt.out   ],
+2021-05-11T11:15:22Z binfmt.out   "emulators": [
+2021-05-11T11:15:22Z binfmt.out     "WSLInterop",
+2021-05-11T11:15:22Z binfmt.out     "qemu-aarch64",
+2021-05-11T11:15:22Z binfmt.out     "qemu-arm",
+2021-05-11T11:15:22Z binfmt.out     "qemu-mips64",
+2021-05-11T11:15:22Z binfmt.out     "qemu-mips64el",
+2021-05-11T11:15:22Z binfmt.out     "qemu-ppc64le",
+2021-05-11T11:15:22Z binfmt.out     "qemu-riscv64",
+2021-05-11T11:15:22Z binfmt.out     "qemu-s390x"
+2021-05-11T11:15:22Z binfmt.out   ]
+2021-05-11T11:15:22Z binfmt.out }
+2021-05-12T12:17:36Z binfmt.out {
+2021-05-12T12:17:36Z binfmt.out   "supported": [
+2021-05-12T12:17:36Z binfmt.out     "linux/amd64"
+2021-05-12T12:17:36Z binfmt.out   ],
+2021-05-12T12:17:36Z binfmt.out   "emulators": [
+2021-05-12T12:17:36Z binfmt.out     "WSLInterop",
+2021-05-12T12:17:36Z binfmt.out     "qemu-aarch64",
+2021-05-12T12:17:36Z binfmt.out     "qemu-arm",
+2021-05-12T12:17:36Z binfmt.out     "qemu-mips64",
+2021-05-12T12:17:36Z binfmt.out     "qemu-mips64el",
+2021-05-12T12:17:36Z binfmt.out     "qemu-ppc64le",
+2021-05-12T12:17:36Z binfmt.out     "qemu-riscv64",
+2021-05-12T12:17:36Z binfmt.out     "qemu-s390x"
+2021-05-12T12:17:36Z binfmt.out   ]
+2021-05-12T12:17:36Z binfmt.out }
+2021-05-12T12:54:11Z binfmt.out {
+2021-05-12T12:54:11Z binfmt.out   "supported": [
+2021-05-12T12:54:11Z binfmt.out     "linux/amd64"
+2021-05-12T12:54:11Z binfmt.out   ],
+2021-05-12T12:54:11Z binfmt.out   "emulators": [
+2021-05-12T12:54:11Z binfmt.out     "WSLInterop",
+2021-05-12T12:54:11Z binfmt.out     "qemu-aarch64",
+2021-05-12T12:54:11Z binfmt.out     "qemu-arm",
+2021-05-12T12:54:11Z binfmt.out     "qemu-mips64",
+2021-05-12T12:54:11Z binfmt.out     "qemu-mips64el",
+2021-05-12T12:54:11Z binfmt.out     "qemu-ppc64le",
+2021-05-12T12:54:11Z binfmt.out     "qemu-riscv64",
+2021-05-12T12:54:11Z binfmt.out     "qemu-s390x"
+2021-05-12T12:54:11Z binfmt.out   ]
+2021-05-12T12:54:11Z binfmt.out }

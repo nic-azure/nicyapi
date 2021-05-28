@@ -1,0 +1,325 @@
+2021-04-27T16:58:31Z vpnkit-tap-vsockd successfully created TAP device eth0
+2021-04-27T16:58:31Z vpnkit-tap-vsockd starting in connect mode with path=/run/host-services/vpnkit.sock and tap=eth0
+2021-04-27T16:58:31Z vpnkit-tap-vsockd Server reports version 22, commit 0123456789012345678901234567890123456789
+2021-04-27T16:58:31Z vpnkit-tap-vsockd VMNET VIF has MAC 02:50:00:00:00:01
+2021-04-27T16:58:31Z vpnkit-tap-vsockd Executing post-up-script /etc/network/post-up-script.sh
+2021-04-27T16:58:32Z vpnkit-tap-vsockd Result of post-up-script = 0
+2021-04-27T17:07:26Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-04-27T17:07:26Z vpnkit-tap-vsockd 
+2021-04-27T17:07:26Z vpnkit-tap-vsockd Failed to read a packet header from host Error: 0. No error information
+2021-04-27T17:07:26Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-04-27T17:07:26Z vpnkit-tap-vsockd 
+2021-04-27T17:07:26Z vpnkit-tap-vsockd Failed to read hello from client
+2021-04-27T17:07:26Z vpnkit-tap-vsockd Failed to negotiate vmnet connection
+2021-04-27T17:09:33Z vpnkit-tap-vsockd successfully created TAP device eth0
+2021-04-27T17:09:33Z vpnkit-tap-vsockd starting in connect mode with path=/run/host-services/vpnkit.sock and tap=eth0
+2021-04-27T17:09:33Z vpnkit-tap-vsockd Server reports version 22, commit 0123456789012345678901234567890123456789
+2021-04-27T17:09:33Z vpnkit-tap-vsockd VMNET VIF has MAC 02:50:00:00:00:01
+2021-04-27T17:09:33Z vpnkit-tap-vsockd Executing post-up-script /etc/network/post-up-script.sh
+2021-04-27T17:09:34Z vpnkit-tap-vsockd Result of post-up-script = 0
+2021-04-28T03:41:16Z vpnkit-tap-vsockd successfully created TAP device eth0
+2021-04-28T03:41:16Z vpnkit-tap-vsockd starting in connect mode with path=/run/host-services/vpnkit.sock and tap=eth0
+2021-04-28T03:41:16Z vpnkit-tap-vsockd Server reports version 22, commit 0123456789012345678901234567890123456789
+2021-04-28T03:41:16Z vpnkit-tap-vsockd VMNET VIF has MAC 02:50:00:00:00:01
+2021-04-28T03:41:16Z vpnkit-tap-vsockd Executing post-up-script /etc/network/post-up-script.sh
+2021-04-28T03:41:18Z vpnkit-tap-vsockd Result of post-up-script = 0
+2021-04-28T06:54:15Z vpnkit-tap-vsockd successfully created TAP device eth0
+2021-04-28T06:54:15Z vpnkit-tap-vsockd starting in connect mode with path=/run/host-services/vpnkit.sock and tap=eth0
+2021-04-28T06:54:15Z vpnkit-tap-vsockd Server reports version 22, commit 0123456789012345678901234567890123456789
+2021-04-28T06:54:15Z vpnkit-tap-vsockd VMNET VIF has MAC 02:50:00:00:00:01
+2021-04-28T06:54:15Z vpnkit-tap-vsockd Executing post-up-script /etc/network/post-up-script.sh
+2021-04-28T06:54:18Z vpnkit-tap-vsockd Result of post-up-script = 0
+2021-04-28T09:33:44Z vpnkit-tap-vsockd successfully created TAP device eth0
+2021-04-28T09:33:44Z vpnkit-tap-vsockd starting in connect mode with path=/run/host-services/vpnkit.sock and tap=eth0
+2021-04-28T09:33:44Z vpnkit-tap-vsockd Server reports version 22, commit 0123456789012345678901234567890123456789
+2021-04-28T09:33:44Z vpnkit-tap-vsockd VMNET VIF has MAC 02:50:00:00:00:01
+2021-04-28T09:33:44Z vpnkit-tap-vsockd Executing post-up-script /etc/network/post-up-script.sh
+2021-04-28T09:33:46Z vpnkit-tap-vsockd Result of post-up-script = 0
+2021-04-28T11:27:44Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-04-28T11:27:44Z vpnkit-tap-vsockd 
+2021-04-28T11:27:44Z vpnkit-tap-vsockd Failed to read a packet header from host Error: 0. No error information
+2021-04-28T11:27:44Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-04-28T11:27:44Z vpnkit-tap-vsockd 
+2021-04-28T11:27:44Z vpnkit-tap-vsockd Failed to read hello from client
+2021-04-28T11:27:44Z vpnkit-tap-vsockd Failed to negotiate vmnet connection
+2021-04-28T11:30:06Z vpnkit-tap-vsockd successfully created TAP device eth0
+2021-04-28T11:30:06Z vpnkit-tap-vsockd starting in connect mode with path=/run/host-services/vpnkit.sock and tap=eth0
+2021-04-28T11:30:06Z vpnkit-tap-vsockd Server reports version 22, commit 0123456789012345678901234567890123456789
+2021-04-28T11:30:06Z vpnkit-tap-vsockd VMNET VIF has MAC 02:50:00:00:00:01
+2021-04-28T11:30:06Z vpnkit-tap-vsockd Executing post-up-script /etc/network/post-up-script.sh
+2021-04-28T11:30:08Z vpnkit-tap-vsockd Result of post-up-script = 0
+2021-04-28T16:09:07Z vpnkit-tap-vsockd successfully created TAP device eth0
+2021-04-28T16:09:07Z vpnkit-tap-vsockd starting in connect mode with path=/run/host-services/vpnkit.sock and tap=eth0
+2021-04-28T16:09:07Z vpnkit-tap-vsockd Server reports version 22, commit 0123456789012345678901234567890123456789
+2021-04-28T16:09:07Z vpnkit-tap-vsockd VMNET VIF has MAC 02:50:00:00:00:01
+2021-04-28T16:09:07Z vpnkit-tap-vsockd Executing post-up-script /etc/network/post-up-script.sh
+2021-04-28T16:09:09Z vpnkit-tap-vsockd Result of post-up-script = 0
+2021-04-28T20:27:41Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-04-28T20:27:41Z vpnkit-tap-vsockd 
+2021-04-28T20:27:41Z vpnkit-tap-vsockd Failed to read a packet header from host Error: 0. No error information
+2021-04-28T20:27:41Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-04-28T20:27:41Z vpnkit-tap-vsockd 
+2021-04-28T20:27:41Z vpnkit-tap-vsockd Failed to read hello from client
+2021-04-28T20:27:41Z vpnkit-tap-vsockd Failed to negotiate vmnet connection
+2021-04-29T00:56:34Z vpnkit-tap-vsockd successfully created TAP device eth0
+2021-04-29T00:56:34Z vpnkit-tap-vsockd starting in connect mode with path=/run/host-services/vpnkit.sock and tap=eth0
+2021-04-29T00:56:34Z vpnkit-tap-vsockd Server reports version 22, commit 0123456789012345678901234567890123456789
+2021-04-29T00:56:34Z vpnkit-tap-vsockd VMNET VIF has MAC 02:50:00:00:00:01
+2021-04-29T00:56:34Z vpnkit-tap-vsockd Executing post-up-script /etc/network/post-up-script.sh
+2021-04-29T00:56:36Z vpnkit-tap-vsockd Result of post-up-script = 0
+2021-04-29T01:35:36Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-04-29T01:35:36Z vpnkit-tap-vsockd 
+2021-04-29T01:35:36Z vpnkit-tap-vsockd Failed to read a packet header from host Error: 0. No error information
+2021-04-29T01:35:36Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-04-29T01:35:36Z vpnkit-tap-vsockd 
+2021-04-29T01:35:36Z vpnkit-tap-vsockd Failed to read hello from client
+2021-04-29T01:35:36Z vpnkit-tap-vsockd Failed to negotiate vmnet connection
+2021-04-29T10:45:22Z vpnkit-tap-vsockd successfully created TAP device eth0
+2021-04-29T10:45:22Z vpnkit-tap-vsockd starting in connect mode with path=/run/host-services/vpnkit.sock and tap=eth0
+2021-04-29T10:45:22Z vpnkit-tap-vsockd Server reports version 22, commit 0123456789012345678901234567890123456789
+2021-04-29T10:45:22Z vpnkit-tap-vsockd VMNET VIF has MAC 02:50:00:00:00:01
+2021-04-29T10:45:22Z vpnkit-tap-vsockd Executing post-up-script /etc/network/post-up-script.sh
+2021-04-29T10:45:24Z vpnkit-tap-vsockd Result of post-up-script = 0
+2021-04-29T11:36:05Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-04-29T11:36:05Z vpnkit-tap-vsockd 
+2021-04-29T11:36:05Z vpnkit-tap-vsockd Failed to read a packet header from host Error: 0. No error information
+2021-04-29T11:36:05Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-04-29T11:36:05Z vpnkit-tap-vsockd 
+2021-04-29T11:36:05Z vpnkit-tap-vsockd Failed to read hello from client
+2021-04-29T11:36:05Z vpnkit-tap-vsockd Failed to negotiate vmnet connection
+2021-04-29T15:39:33Z vpnkit-tap-vsockd successfully created TAP device eth0
+2021-04-29T15:39:33Z vpnkit-tap-vsockd starting in connect mode with path=/run/host-services/vpnkit.sock and tap=eth0
+2021-04-29T15:39:33Z vpnkit-tap-vsockd Server reports version 22, commit 0123456789012345678901234567890123456789
+2021-04-29T15:39:33Z vpnkit-tap-vsockd VMNET VIF has MAC 02:50:00:00:00:01
+2021-04-29T15:39:33Z vpnkit-tap-vsockd Executing post-up-script /etc/network/post-up-script.sh
+2021-04-29T15:39:35Z vpnkit-tap-vsockd Result of post-up-script = 0
+2021-04-30T05:27:58Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-04-30T05:27:58Z vpnkit-tap-vsockd 
+2021-04-30T05:27:58Z vpnkit-tap-vsockd Failed to read a packet header from host Error: 0. No error information
+2021-04-30T05:27:58Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-04-30T05:27:58Z vpnkit-tap-vsockd 
+2021-04-30T05:27:58Z vpnkit-tap-vsockd Failed to read hello from client
+2021-04-30T05:27:58Z vpnkit-tap-vsockd Failed to negotiate vmnet connection
+2021-04-30T05:34:30Z vpnkit-tap-vsockd successfully created TAP device eth0
+2021-04-30T05:34:30Z vpnkit-tap-vsockd starting in connect mode with path=/run/host-services/vpnkit.sock and tap=eth0
+2021-04-30T05:34:30Z vpnkit-tap-vsockd Server reports version 22, commit 0123456789012345678901234567890123456789
+2021-04-30T05:34:30Z vpnkit-tap-vsockd VMNET VIF has MAC 02:50:00:00:00:01
+2021-04-30T05:34:30Z vpnkit-tap-vsockd Executing post-up-script /etc/network/post-up-script.sh
+2021-04-30T05:34:31Z vpnkit-tap-vsockd Result of post-up-script = 0
+2021-04-30T07:04:09Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-04-30T07:04:09Z vpnkit-tap-vsockd 
+2021-04-30T07:04:09Z vpnkit-tap-vsockd Failed to read a packet header from host Error: 0. No error information
+2021-04-30T07:04:10Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-04-30T07:04:10Z vpnkit-tap-vsockd 
+2021-04-30T07:04:10Z vpnkit-tap-vsockd Failed to read hello from client
+2021-04-30T07:04:10Z vpnkit-tap-vsockd Failed to negotiate vmnet connection
+2021-04-30T07:06:42Z vpnkit-tap-vsockd successfully created TAP device eth0
+2021-04-30T07:06:42Z vpnkit-tap-vsockd starting in connect mode with path=/run/host-services/vpnkit.sock and tap=eth0
+2021-04-30T07:06:42Z vpnkit-tap-vsockd Server reports version 22, commit 0123456789012345678901234567890123456789
+2021-04-30T07:06:42Z vpnkit-tap-vsockd VMNET VIF has MAC 02:50:00:00:00:01
+2021-04-30T07:06:42Z vpnkit-tap-vsockd Executing post-up-script /etc/network/post-up-script.sh
+2021-04-30T07:06:43Z vpnkit-tap-vsockd Result of post-up-script = 0
+2021-04-30T23:03:34Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-04-30T23:03:34Z vpnkit-tap-vsockd 
+2021-04-30T23:03:34Z vpnkit-tap-vsockd Failed to read a packet header from host Error: 0. No error information
+2021-04-30T23:03:34Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-04-30T23:03:34Z vpnkit-tap-vsockd 
+2021-04-30T23:03:34Z vpnkit-tap-vsockd Failed to read hello from client
+2021-04-30T23:03:34Z vpnkit-tap-vsockd Failed to negotiate vmnet connection
+2021-05-02T08:52:44Z vpnkit-tap-vsockd successfully created TAP device eth0
+2021-05-02T08:52:44Z vpnkit-tap-vsockd starting in connect mode with path=/run/host-services/vpnkit.sock and tap=eth0
+2021-05-02T08:52:44Z vpnkit-tap-vsockd Server reports version 22, commit 0123456789012345678901234567890123456789
+2021-05-02T08:52:44Z vpnkit-tap-vsockd VMNET VIF has MAC 02:50:00:00:00:01
+2021-05-02T08:52:44Z vpnkit-tap-vsockd Executing post-up-script /etc/network/post-up-script.sh
+2021-05-02T08:52:45Z vpnkit-tap-vsockd Result of post-up-script = 0
+2021-05-02T19:46:15Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-05-02T19:46:15Z vpnkit-tap-vsockd 
+2021-05-02T19:46:15Z vpnkit-tap-vsockd Failed to read a packet header from host Error: 0. No error information
+2021-05-02T19:46:15Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-05-02T19:46:15Z vpnkit-tap-vsockd 
+2021-05-02T19:46:15Z vpnkit-tap-vsockd Failed to read hello from client
+2021-05-02T19:46:15Z vpnkit-tap-vsockd Failed to negotiate vmnet connection
+2021-05-04T10:47:32Z vpnkit-tap-vsockd successfully created TAP device eth0
+2021-05-04T10:47:32Z vpnkit-tap-vsockd starting in connect mode with path=/run/host-services/vpnkit.sock and tap=eth0
+2021-05-04T10:47:32Z vpnkit-tap-vsockd Server reports version 22, commit 0123456789012345678901234567890123456789
+2021-05-04T10:47:32Z vpnkit-tap-vsockd VMNET VIF has MAC 02:50:00:00:00:01
+2021-05-04T10:47:32Z vpnkit-tap-vsockd Executing post-up-script /etc/network/post-up-script.sh
+2021-05-04T10:47:34Z vpnkit-tap-vsockd Result of post-up-script = 0
+2021-05-04T17:53:55Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-05-04T17:53:55Z vpnkit-tap-vsockd 
+2021-05-04T17:53:55Z vpnkit-tap-vsockd Failed to read a packet header from host Error: 0. No error information
+2021-05-04T17:53:55Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-05-04T17:53:55Z vpnkit-tap-vsockd 
+2021-05-04T17:53:55Z vpnkit-tap-vsockd Failed to read hello from client
+2021-05-04T17:53:55Z vpnkit-tap-vsockd Failed to negotiate vmnet connection
+2021-05-05T15:09:37Z vpnkit-tap-vsockd successfully created TAP device eth0
+2021-05-05T15:09:37Z vpnkit-tap-vsockd starting in connect mode with path=/run/host-services/vpnkit.sock and tap=eth0
+2021-05-05T15:09:37Z vpnkit-tap-vsockd Server reports version 22, commit 0123456789012345678901234567890123456789
+2021-05-05T15:09:37Z vpnkit-tap-vsockd VMNET VIF has MAC 02:50:00:00:00:01
+2021-05-05T15:09:37Z vpnkit-tap-vsockd Executing post-up-script /etc/network/post-up-script.sh
+2021-05-05T15:09:38Z vpnkit-tap-vsockd Result of post-up-script = 0
+2021-05-05T19:11:27Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-05-05T19:11:27Z vpnkit-tap-vsockd 
+2021-05-05T19:11:27Z vpnkit-tap-vsockd Failed to read a packet header from host Error: 0. No error information
+2021-05-05T19:11:27Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-05-05T19:11:27Z vpnkit-tap-vsockd 
+2021-05-05T19:11:27Z vpnkit-tap-vsockd Failed to read hello from client
+2021-05-05T19:11:27Z vpnkit-tap-vsockd Failed to negotiate vmnet connection
+2021-05-06T09:25:10Z vpnkit-tap-vsockd successfully created TAP device eth0
+2021-05-06T09:25:10Z vpnkit-tap-vsockd starting in connect mode with path=/run/host-services/vpnkit.sock and tap=eth0
+2021-05-06T09:25:10Z vpnkit-tap-vsockd Server reports version 22, commit 0123456789012345678901234567890123456789
+2021-05-06T09:25:10Z vpnkit-tap-vsockd VMNET VIF has MAC 02:50:00:00:00:01
+2021-05-06T09:25:10Z vpnkit-tap-vsockd Executing post-up-script /etc/network/post-up-script.sh
+2021-05-06T09:25:12Z vpnkit-tap-vsockd Result of post-up-script = 0
+2021-05-07T03:18:15Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-05-07T03:18:15Z vpnkit-tap-vsockd 
+2021-05-07T03:18:15Z vpnkit-tap-vsockd Failed to read a packet header from host Error: 0. No error information
+2021-05-07T03:18:15Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-05-07T03:18:15Z vpnkit-tap-vsockd 
+2021-05-07T03:18:15Z vpnkit-tap-vsockd Failed to read hello from client
+2021-05-07T03:18:15Z vpnkit-tap-vsockd Failed to negotiate vmnet connection
+2021-05-07T03:22:08Z vpnkit-tap-vsockd successfully created TAP device eth0
+2021-05-07T03:22:08Z vpnkit-tap-vsockd starting in connect mode with path=/run/host-services/vpnkit.sock and tap=eth0
+2021-05-07T03:22:08Z vpnkit-tap-vsockd Server reports version 22, commit 0123456789012345678901234567890123456789
+2021-05-07T03:22:08Z vpnkit-tap-vsockd VMNET VIF has MAC 02:50:00:00:00:01
+2021-05-07T03:22:08Z vpnkit-tap-vsockd Executing post-up-script /etc/network/post-up-script.sh
+2021-05-07T03:22:10Z vpnkit-tap-vsockd Result of post-up-script = 0
+2021-05-07T05:20:06Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-05-07T05:20:06Z vpnkit-tap-vsockd 
+2021-05-07T05:20:06Z vpnkit-tap-vsockd Failed to read a packet header from host Error: 0. No error information
+2021-05-07T05:20:06Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-05-07T05:20:06Z vpnkit-tap-vsockd 
+2021-05-07T05:20:06Z vpnkit-tap-vsockd Failed to read hello from client
+2021-05-07T05:20:06Z vpnkit-tap-vsockd Failed to negotiate vmnet connection
+2021-05-07T05:20:07Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-05-07T05:20:07Z vpnkit-tap-vsockd 
+2021-05-07T05:20:07Z vpnkit-tap-vsockd Failed to read hello from client
+2021-05-07T05:20:07Z vpnkit-tap-vsockd Failed to negotiate vmnet connection
+2021-05-07T05:20:08Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-05-07T05:20:08Z vpnkit-tap-vsockd 
+2021-05-07T05:20:08Z vpnkit-tap-vsockd Failed to read hello from client
+2021-05-07T05:20:08Z vpnkit-tap-vsockd Failed to negotiate vmnet connection
+2021-05-07T05:30:04Z vpnkit-tap-vsockd successfully created TAP device eth0
+2021-05-07T05:30:04Z vpnkit-tap-vsockd starting in connect mode with path=/run/host-services/vpnkit.sock and tap=eth0
+2021-05-07T05:30:04Z vpnkit-tap-vsockd Server reports version 22, commit 0123456789012345678901234567890123456789
+2021-05-07T05:30:04Z vpnkit-tap-vsockd VMNET VIF has MAC 02:50:00:00:00:01
+2021-05-07T05:30:04Z vpnkit-tap-vsockd Executing post-up-script /etc/network/post-up-script.sh
+2021-05-07T05:30:06Z vpnkit-tap-vsockd Result of post-up-script = 0
+2021-05-07T09:45:50Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-05-07T09:45:50Z vpnkit-tap-vsockd 
+2021-05-07T09:45:50Z vpnkit-tap-vsockd Failed to read a packet header from host Error: 0. No error information
+2021-05-07T09:45:51Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-05-07T09:45:51Z vpnkit-tap-vsockd 
+2021-05-07T09:45:51Z vpnkit-tap-vsockd Failed to read hello from client
+2021-05-07T09:45:51Z vpnkit-tap-vsockd Failed to negotiate vmnet connection
+2021-05-07T09:48:10Z vpnkit-tap-vsockd successfully created TAP device eth0
+2021-05-07T09:48:10Z vpnkit-tap-vsockd starting in connect mode with path=/run/host-services/vpnkit.sock and tap=eth0
+2021-05-07T09:48:10Z vpnkit-tap-vsockd Server reports version 22, commit 0123456789012345678901234567890123456789
+2021-05-07T09:48:10Z vpnkit-tap-vsockd VMNET VIF has MAC 02:50:00:00:00:01
+2021-05-07T09:48:10Z vpnkit-tap-vsockd Executing post-up-script /etc/network/post-up-script.sh
+2021-05-07T09:48:12Z vpnkit-tap-vsockd Result of post-up-script = 0
+2021-05-07T11:04:34Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-05-07T11:04:34Z vpnkit-tap-vsockd 
+2021-05-07T11:04:34Z vpnkit-tap-vsockd Failed to read a packet header from host Error: 0. No error information
+2021-05-07T11:04:34Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-05-07T11:04:34Z vpnkit-tap-vsockd 
+2021-05-07T11:04:34Z vpnkit-tap-vsockd Failed to read hello from client
+2021-05-07T11:04:34Z vpnkit-tap-vsockd Failed to negotiate vmnet connection
+2021-05-07T11:31:29Z vpnkit-tap-vsockd successfully created TAP device eth0
+2021-05-07T11:31:29Z vpnkit-tap-vsockd starting in connect mode with path=/run/host-services/vpnkit.sock and tap=eth0
+2021-05-07T11:31:29Z vpnkit-tap-vsockd Server reports version 22, commit 0123456789012345678901234567890123456789
+2021-05-07T11:31:29Z vpnkit-tap-vsockd VMNET VIF has MAC 02:50:00:00:00:01
+2021-05-07T11:31:29Z vpnkit-tap-vsockd Executing post-up-script /etc/network/post-up-script.sh
+2021-05-07T11:31:31Z vpnkit-tap-vsockd Result of post-up-script = 0
+2021-05-07T11:32:47Z vpnkit-tap-vsockd successfully created TAP device eth0
+2021-05-07T11:32:47Z vpnkit-tap-vsockd starting in connect mode with path=/run/host-services/vpnkit.sock and tap=eth0
+2021-05-07T11:32:47Z vpnkit-tap-vsockd Server reports version 22, commit 0123456789012345678901234567890123456789
+2021-05-07T11:32:47Z vpnkit-tap-vsockd VMNET VIF has MAC 02:50:00:00:00:01
+2021-05-07T11:32:47Z vpnkit-tap-vsockd Executing post-up-script /etc/network/post-up-script.sh
+2021-05-07T11:32:49Z vpnkit-tap-vsockd Result of post-up-script = 0
+2021-05-07T11:37:41Z vpnkit-tap-vsockd successfully created TAP device eth0
+2021-05-07T11:37:41Z vpnkit-tap-vsockd starting in connect mode with path=/run/host-services/vpnkit.sock and tap=eth0
+2021-05-07T11:37:41Z vpnkit-tap-vsockd Server reports version 22, commit 0123456789012345678901234567890123456789
+2021-05-07T11:37:41Z vpnkit-tap-vsockd VMNET VIF has MAC 02:50:00:00:00:01
+2021-05-07T11:37:41Z vpnkit-tap-vsockd Executing post-up-script /etc/network/post-up-script.sh
+2021-05-07T11:37:43Z vpnkit-tap-vsockd Result of post-up-script = 0
+2021-05-07T11:57:55Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-05-07T11:57:55Z vpnkit-tap-vsockd 
+2021-05-07T11:57:55Z vpnkit-tap-vsockd Failed to read a packet header from host Error: 0. No error information
+2021-05-07T12:08:01Z vpnkit-tap-vsockd successfully created TAP device eth0
+2021-05-07T12:08:01Z vpnkit-tap-vsockd starting in connect mode with path=/run/host-services/vpnkit.sock and tap=eth0
+2021-05-07T12:08:01Z vpnkit-tap-vsockd Server reports version 22, commit 0123456789012345678901234567890123456789
+2021-05-07T12:08:01Z vpnkit-tap-vsockd VMNET VIF has MAC 02:50:00:00:00:01
+2021-05-07T12:08:01Z vpnkit-tap-vsockd Executing post-up-script /etc/network/post-up-script.sh
+2021-05-07T12:08:02Z vpnkit-tap-vsockd Result of post-up-script = 0
+2021-05-07T19:33:28Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-05-07T19:33:28Z vpnkit-tap-vsockd 
+2021-05-07T19:33:28Z vpnkit-tap-vsockd Failed to read a packet header from host Error: 0. No error information
+2021-05-07T19:33:28Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-05-07T19:33:28Z vpnkit-tap-vsockd 
+2021-05-07T19:33:28Z vpnkit-tap-vsockd Failed to read hello from client
+2021-05-07T19:33:28Z vpnkit-tap-vsockd Failed to negotiate vmnet connection
+2021-05-07T23:46:07Z vpnkit-tap-vsockd successfully created TAP device eth0
+2021-05-07T23:46:07Z vpnkit-tap-vsockd starting in connect mode with path=/run/host-services/vpnkit.sock and tap=eth0
+2021-05-07T23:46:07Z vpnkit-tap-vsockd Server reports version 22, commit 0123456789012345678901234567890123456789
+2021-05-07T23:46:07Z vpnkit-tap-vsockd VMNET VIF has MAC 02:50:00:00:00:01
+2021-05-07T23:46:07Z vpnkit-tap-vsockd Executing post-up-script /etc/network/post-up-script.sh
+2021-05-07T23:46:09Z vpnkit-tap-vsockd Result of post-up-script = 0
+2021-05-07T23:55:35Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-05-07T23:55:35Z vpnkit-tap-vsockd 
+2021-05-07T23:55:35Z vpnkit-tap-vsockd Failed to read a packet header from host Error: 0. No error information
+2021-05-07T23:55:35Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-05-07T23:55:35Z vpnkit-tap-vsockd 
+2021-05-07T23:55:35Z vpnkit-tap-vsockd Failed to read hello from client
+2021-05-07T23:55:35Z vpnkit-tap-vsockd Failed to negotiate vmnet connection
+2021-05-08T11:04:06Z vpnkit-tap-vsockd successfully created TAP device eth0
+2021-05-08T11:04:06Z vpnkit-tap-vsockd starting in connect mode with path=/run/host-services/vpnkit.sock and tap=eth0
+2021-05-08T11:04:06Z vpnkit-tap-vsockd Server reports version 22, commit 0123456789012345678901234567890123456789
+2021-05-08T11:04:06Z vpnkit-tap-vsockd VMNET VIF has MAC 02:50:00:00:00:01
+2021-05-08T11:04:06Z vpnkit-tap-vsockd Executing post-up-script /etc/network/post-up-script.sh
+2021-05-08T11:04:08Z vpnkit-tap-vsockd Result of post-up-script = 0
+2021-05-09T19:55:03Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-05-09T19:55:03Z vpnkit-tap-vsockd 
+2021-05-09T19:55:03Z vpnkit-tap-vsockd Failed to read a packet header from host Error: 0. No error information
+2021-05-09T19:55:03Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-05-09T19:55:03Z vpnkit-tap-vsockd 
+2021-05-09T19:55:03Z vpnkit-tap-vsockd Failed to read hello from client
+2021-05-09T19:55:03Z vpnkit-tap-vsockd Failed to negotiate vmnet connection
+2021-05-10T09:53:29Z vpnkit-tap-vsockd successfully created TAP device eth0
+2021-05-10T09:53:29Z vpnkit-tap-vsockd starting in connect mode with path=/run/host-services/vpnkit.sock and tap=eth0
+2021-05-10T09:53:29Z vpnkit-tap-vsockd Server reports version 22, commit 0123456789012345678901234567890123456789
+2021-05-10T09:53:29Z vpnkit-tap-vsockd VMNET VIF has MAC 02:50:00:00:00:01
+2021-05-10T09:53:29Z vpnkit-tap-vsockd Executing post-up-script /etc/network/post-up-script.sh
+2021-05-10T09:53:31Z vpnkit-tap-vsockd Result of post-up-script = 0
+2021-05-11T11:15:26Z vpnkit-tap-vsockd successfully created TAP device eth0
+2021-05-11T11:15:26Z vpnkit-tap-vsockd starting in connect mode with path=/run/host-services/vpnkit.sock and tap=eth0
+2021-05-11T11:15:26Z vpnkit-tap-vsockd Server reports version 22, commit 0123456789012345678901234567890123456789
+2021-05-11T11:15:26Z vpnkit-tap-vsockd VMNET VIF has MAC 02:50:00:00:00:01
+2021-05-11T11:15:26Z vpnkit-tap-vsockd Executing post-up-script /etc/network/post-up-script.sh
+2021-05-11T11:15:28Z vpnkit-tap-vsockd Result of post-up-script = 0
+2021-05-11T17:05:39Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-05-11T17:05:39Z vpnkit-tap-vsockd 
+2021-05-11T17:05:39Z vpnkit-tap-vsockd Failed to read a packet header from host Error: 0. No error information
+2021-05-11T17:05:39Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-05-11T17:05:39Z vpnkit-tap-vsockd 
+2021-05-11T17:05:39Z vpnkit-tap-vsockd Failed to read hello from client
+2021-05-11T17:05:39Z vpnkit-tap-vsockd Failed to negotiate vmnet connection
+2021-05-12T12:17:37Z vpnkit-tap-vsockd successfully created TAP device eth0
+2021-05-12T12:17:37Z vpnkit-tap-vsockd starting in connect mode with path=/run/host-services/vpnkit.sock and tap=eth0
+2021-05-12T12:17:37Z vpnkit-tap-vsockd Server reports version 22, commit 0123456789012345678901234567890123456789
+2021-05-12T12:17:37Z vpnkit-tap-vsockd VMNET VIF has MAC 02:50:00:00:00:01
+2021-05-12T12:17:37Z vpnkit-tap-vsockd Executing post-up-script /etc/network/post-up-script.sh
+2021-05-12T12:17:39Z vpnkit-tap-vsockd Result of post-up-script = 0
+2021-05-12T12:54:13Z vpnkit-tap-vsockd successfully created TAP device eth0
+2021-05-12T12:54:13Z vpnkit-tap-vsockd starting in connect mode with path=/run/host-services/vpnkit.sock and tap=eth0
+2021-05-12T12:54:13Z vpnkit-tap-vsockd Server reports version 22, commit 0123456789012345678901234567890123456789
+2021-05-12T12:54:13Z vpnkit-tap-vsockd VMNET VIF has MAC 02:50:00:00:00:01
+2021-05-12T12:54:13Z vpnkit-tap-vsockd Executing post-up-script /etc/network/post-up-script.sh
+2021-05-12T12:54:15Z vpnkit-tap-vsockd Result of post-up-script = 0
+2021-05-12T19:27:07Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-05-12T19:27:07Z vpnkit-tap-vsockd 
+2021-05-12T19:27:07Z vpnkit-tap-vsockd Failed to read a packet header from host Error: 0. No error information
+2021-05-12T19:27:08Z vpnkit-tap-vsockd EOF reading from socket: closing
+2021-05-12T19:27:08Z vpnkit-tap-vsockd 
+2021-05-12T19:27:08Z vpnkit-tap-vsockd Failed to read hello from client
+2021-05-12T19:27:08Z vpnkit-tap-vsockd Failed to negotiate vmnet connection

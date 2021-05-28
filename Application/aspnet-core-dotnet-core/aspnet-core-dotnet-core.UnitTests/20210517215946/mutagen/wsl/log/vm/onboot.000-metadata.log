@@ -1,0 +1,62 @@
+2021-04-27T16:58:28Z onboot.000-metadata 2021/04/27 16:58:28 Fetching metadata from Go backend
+2021-04-27T16:58:29Z onboot.000-metadata 2021/04/27 16:58:29 Writing metadata to /run/config
+2021-04-27T17:09:30Z onboot.000-metadata 2021/04/27 17:09:30 Fetching metadata from Go backend
+2021-04-27T17:09:30Z onboot.000-metadata 2021/04/27 17:09:30 Writing metadata to /run/config
+2021-04-28T03:41:12Z onboot.000-metadata 2021/04/28 03:41:12 Fetching metadata from Go backend
+2021-04-28T03:41:12Z onboot.000-metadata 2021/04/28 03:41:12 Writing metadata to /run/config
+2021-04-28T06:54:13Z onboot.000-metadata 2021/04/28 06:54:13 Fetching metadata from Go backend
+2021-04-28T06:54:13Z onboot.000-metadata 2021/04/28 06:54:13 Writing metadata to /run/config
+2021-04-28T09:33:37Z onboot.000-metadata 2021/04/28 09:33:37 Fetching metadata from Go backend
+2021-04-28T09:33:37Z onboot.000-metadata 2021/04/28 09:33:37 Writing metadata to /run/config
+2021-04-28T11:30:03Z onboot.000-metadata 2021/04/28 11:30:03 Fetching metadata from Go backend
+2021-04-28T11:30:03Z onboot.000-metadata 2021/04/28 11:30:03 Writing metadata to /run/config
+2021-04-28T16:09:05Z onboot.000-metadata 2021/04/28 16:09:05 Fetching metadata from Go backend
+2021-04-28T16:09:05Z onboot.000-metadata 2021/04/28 16:09:05 Writing metadata to /run/config
+2021-04-29T00:56:24Z onboot.000-metadata 2021/04/29 00:56:24 Fetching metadata from Go backend
+2021-04-29T00:56:32Z onboot.000-metadata 2021/04/29 00:56:32 Writing metadata to /run/config
+2021-04-29T10:45:17Z onboot.000-metadata 2021/04/29 10:45:17 Fetching metadata from Go backend
+2021-04-29T10:45:20Z onboot.000-metadata 2021/04/29 10:45:20 Writing metadata to /run/config
+2021-04-29T15:39:21Z onboot.000-metadata 2021/04/29 15:39:21 Fetching metadata from Go backend
+2021-04-29T15:39:30Z onboot.000-metadata 2021/04/29 15:39:30 Writing metadata to /run/config
+2021-04-30T05:34:02Z onboot.000-metadata 2021/04/30 05:34:02 Fetching metadata from Go backend
+2021-04-30T05:34:12Z onboot.000-metadata 2021/04/30 05:34:12 still waiting to fetch metadata from Go backend after 10.0105541s. Last error was Get "http://localhost/vm/init": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021-04-30T05:34:16Z onboot.000-metadata 2021/04/30 05:34:16 Writing metadata to /run/config
+2021-04-30T07:06:37Z onboot.000-metadata 2021/04/30 07:06:37 Fetching metadata from Go backend
+2021-04-30T07:06:39Z onboot.000-metadata 2021/04/30 07:06:39 Writing metadata to /run/config
+2021-05-02T08:52:31Z onboot.000-metadata 2021/05/02 08:52:31 Fetching metadata from Go backend
+2021-05-02T08:52:40Z onboot.000-metadata 2021/05/02 08:52:40 Writing metadata to /run/config
+2021-05-04T10:47:09Z onboot.000-metadata 2021/05/04 10:47:09 Fetching metadata from Go backend
+2021-05-04T10:47:19Z onboot.000-metadata 2021/05/04 10:47:19 still waiting to fetch metadata from Go backend after 10.0011163s. Last error was Get "http://localhost/vm/init": dial unix /run/host-services/backend.sock: connect: no such file or directory
+2021-05-04T10:47:28Z onboot.000-metadata 2021/05/04 10:47:28 Writing metadata to /run/config
+2021-05-05T15:09:10Z onboot.000-metadata 2021/05/05 15:09:10 Fetching metadata from Go backend
+2021-05-05T15:09:20Z onboot.000-metadata 2021/05/05 15:09:20 still waiting to fetch metadata from Go backend after 10.0045446s. Last error was Get "http://localhost/vm/init": dial unix /run/host-services/backend.sock: connect: no such file or directory
+2021-05-05T15:09:30Z onboot.000-metadata 2021/05/05 15:09:30 still waiting to fetch metadata from Go backend after 20.0103882s. Last error was Get "http://localhost/vm/init": dial unix /run/host-services/backend.sock: connect: no such file or directory
+2021-05-05T15:09:35Z onboot.000-metadata 2021/05/05 15:09:35 Writing metadata to /run/config
+2021-05-06T09:25:00Z onboot.000-metadata 2021/05/06 09:25:00 Fetching metadata from Go backend
+2021-05-06T09:25:06Z onboot.000-metadata 2021/05/06 09:25:06 Writing metadata to /run/config
+2021-05-07T03:22:01Z onboot.000-metadata 2021/05/07 03:22:01 Fetching metadata from Go backend
+2021-05-07T03:22:01Z onboot.000-metadata 2021/05/07 03:22:01 Writing metadata to /run/config
+2021-05-07T05:29:54Z onboot.000-metadata 2021/05/07 05:29:54 Fetching metadata from Go backend
+2021-05-07T05:30:00Z onboot.000-metadata 2021/05/07 05:30:00 Writing metadata to /run/config
+2021-05-07T09:48:07Z onboot.000-metadata 2021/05/07 09:48:07 Fetching metadata from Go backend
+2021-05-07T09:48:07Z onboot.000-metadata 2021/05/07 09:48:07 Writing metadata to /run/config
+2021-05-07T11:31:26Z onboot.000-metadata 2021/05/07 11:31:26 Fetching metadata from Go backend
+2021-05-07T11:31:26Z onboot.000-metadata 2021/05/07 11:31:26 Writing metadata to /run/config
+2021-05-07T11:32:44Z onboot.000-metadata 2021/05/07 11:32:44 Fetching metadata from Go backend
+2021-05-07T11:32:44Z onboot.000-metadata 2021/05/07 11:32:44 Writing metadata to /run/config
+2021-05-07T11:37:38Z onboot.000-metadata 2021/05/07 11:37:38 Fetching metadata from Go backend
+2021-05-07T11:37:38Z onboot.000-metadata 2021/05/07 11:37:38 Writing metadata to /run/config
+2021-05-07T12:07:46Z onboot.000-metadata 2021/05/07 12:07:46 Fetching metadata from Go backend
+2021-05-07T12:07:49Z onboot.000-metadata 2021/05/07 12:07:49 Writing metadata to /run/config
+2021-05-07T23:45:58Z onboot.000-metadata 2021/05/07 23:45:58 Fetching metadata from Go backend
+2021-05-07T23:46:02Z onboot.000-metadata 2021/05/07 23:46:02 Writing metadata to /run/config
+2021-05-08T11:04:02Z onboot.000-metadata 2021/05/08 11:04:02 Fetching metadata from Go backend
+2021-05-08T11:04:02Z onboot.000-metadata 2021/05/08 11:04:02 Writing metadata to /run/config
+2021-05-10T09:53:24Z onboot.000-metadata 2021/05/10 09:53:24 Fetching metadata from Go backend
+2021-05-10T09:53:24Z onboot.000-metadata 2021/05/10 09:53:24 Writing metadata to /run/config
+2021-05-11T11:15:20Z onboot.000-metadata 2021/05/11 11:15:20 Fetching metadata from Go backend
+2021-05-11T11:15:20Z onboot.000-metadata 2021/05/11 11:15:20 Writing metadata to /run/config
+2021-05-12T12:17:32Z onboot.000-metadata 2021/05/12 12:17:32 Fetching metadata from Go backend
+2021-05-12T12:17:35Z onboot.000-metadata 2021/05/12 12:17:35 Writing metadata to /run/config
+2021-05-12T12:54:09Z onboot.000-metadata 2021/05/12 12:54:09 Fetching metadata from Go backend
+2021-05-12T12:54:09Z onboot.000-metadata 2021/05/12 12:54:09 Writing metadata to /run/config
