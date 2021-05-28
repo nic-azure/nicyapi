@@ -1,0 +1,615 @@
+-	Readme.md
+ -00$- --2-
+ - -
+ -0-+
+ -00$- --2- -#2
+  0:.    
+      .c
+:	:       
+--       
+- -- -       
+    */**.ts  
+!000/Semantic-UI-master/bundles/rx-stomp.umd.js
+!000/Semantic-UI-master/bundles/rx-stomp.umd.js
+#s!BLpTOw-VPb20iDWQTwMMor4eBBPG###/deployment.json
+#s!BLpTOw-VPb20iDWQTwMMor4eBBPG###/deployment_operations.json
+#s!BLpTOw-VPb20iDWQTwMMor4eBBPG###/Search.code-search
+--!-!!.md
+._GitHub-Logos
+.circleci/20210515082907/workflow-push-rejected/update.sample
+.circleci/20210517215946/acl.json
+.circleci/20210517215946/app/config/.npsid
+.circleci/20210517215946/app/config/.trackid
+.circleci/20210517215946/app/config/_Helper.err.txt
+.circleci/20210517215946/app/config/binfmt.log
+.circleci/20210517215946/app/config/binfmt.out.log
+.circleci/20210517215946/app/config/com.docker.backend.exe.log
+.circleci/20210517215946/app/config/com.docker.backend.exe.log.0
+.circleci/20210517215946/app/config/com.docker.backend.exe.log.1
+.circleci/20210517215946/app/config/com.docker.backend.exe.log.2
+.circleci/20210517215946/app/config/com.docker.backend.exe.log.3
+.circleci/20210517215946/app/config/com.docker.proxy.exe.log
+.circleci/20210517215946/app/config/com.docker.proxy.exe.log.0
+.circleci/20210517215946/app/config/com.docker.proxy.exe.log.1
+.circleci/20210517215946/app/config/containerd.log
+.circleci/20210517215946/app/config/containerd.log.0
+.circleci/20210517215946/app/config/diagnose.out.log
+.circleci/20210517215946/app/config/dns-forwarder.log
+.circleci/20210517215946/app/config/docker.log
+.circleci/20210517215946/app/config/docker.log.0
+.circleci/20210517215946/app/config/docker.log.1
+.circleci/20210517215946/app/config/docker.log.2
+.circleci/20210517215946/app/config/docker.log.3
+.circleci/20210517215946/app/config/docker.out.log
+.circleci/20210517215946/app/config/dockerd.log
+.circleci/20210517215946/app/config/dockerd.log.0
+.circleci/20210517215946/app/config/dockerd.log.1
+.circleci/20210517215946/app/config/dockerd.log.2
+.circleci/20210517215946/app/config/dockerd.log.3
+.circleci/20210517215946/app/config/dockerd.log.4
+.circleci/20210517215946/app/config/dockerd.log.5
+.circleci/20210517215946/app/config/dockerd.log.6
+.circleci/20210517215946/app/config/dockerd.log.7
+.circleci/20210517215946/app/config/dockerd.log.8
+.circleci/20210517215946/app/config/http_proxy.json
+.circleci/20210517215946/app/config/kmsg.log
+.circleci/20210517215946/app/config/kmsg.log.0
+.circleci/20210517215946/app/config/kmsg.log.1
+.circleci/20210517215946/app/config/kmsg.log.2
+.circleci/20210517215946/app/config/kmsg.log.3
+.circleci/20210517215946/app/config/kmsg.log.4
+.circleci/20210517215946/app/config/kmsg.log.5
+.circleci/20210517215946/app/config/kmsg.log.6
+.circleci/20210517215946/app/config/kmsg.log.7
+.circleci/20210517215946/app/config/kmsg.log.8
+.circleci/20210517215946/app/config/kubelet.log
+.circleci/20210517215946/app/config/kubelet.log.0
+.circleci/20210517215946/app/config/kubelet.log.1
+.circleci/20210517215946/app/config/kubelet.log.2
+.circleci/20210517215946/app/config/lifecycle-server.log
+.circleci/20210517215946/app/config/lifecycle-server.log.0
+.circleci/20210517215946/app/config/lifecycle-server.log.1
+.circleci/20210517215946/app/config/lifecycle-server.log.2
+.circleci/20210517215946/app/config/lifecycle-server.log.3
+.circleci/20210517215946/app/config/lifecycle-server.out.log
+.circleci/20210517215946/app/config/memlogd.log
+.circleci/20210517215946/app/config/nfs-common.out.log
+.circleci/20210517215946/app/config/nginx.out.log
+.circleci/20210517215946/app/config/onboot.000-metadata.log
+.circleci/20210517215946/app/config/onboot.003-bridge.log
+.circleci/20210517215946/app/config/rpcbind.out.log
+.circleci/20210517215946/app/config/settings.json
+.circleci/20210517215946/app/config/socks.log
+.circleci/20210517215946/app/config/sync.err.txt
+.circleci/20210517215946/app/config/volume-contents.out.log
+.circleci/20210517215946/app/config/vpnkit-bridge.exe.log
+.circleci/20210517215946/app/config/vpnkit-bridge.exe.log.0
+.circleci/20210517215946/app/config/vpnkit-bridge.exe.log.1
+.circleci/20210517215946/app/config/vpnkit-bridge.exe.log.2
+.circleci/20210517215946/app/config/vpnkit-bridge.exe.log.3
+.circleci/20210517215946/app/config/vpnkit-bridge.exe.log.4
+.circleci/20210517215946/app/config/vpnkit-forwarder.log
+.circleci/20210517215946/app/config/vpnkit-tap-vsockd.log
+.circleci/20210517215946/app/filelist.txt
+.circleci/20210517215946/diagkit.json
+.circleci/20210517215946/diagnostics.log
+.circleci/20210517215946/docker/config.json
+.circleci/20210517215946/docker/container-events.csv.cmd.txt
+.circleci/20210517215946/docker/daemon.json
+.circleci/20210517215946/docker/info.json.err.txt
+.circleci/20210517215946/docker/networks.json.err.txt
+.circleci/20210517215946/docker/nodes.json.err.txt
+.circleci/20210517215946/docker/ps.json.err.txt
+.circleci/20210517215946/docker/reg-container.json
+.circleci/20210517215946/docker/reg-container.json.cmd.txt
+.circleci/20210517215946/docker/services.json.err.txt
+.circleci/20210517215946/docker/version.json.err.txt
+.circleci/20210517215946/electron/main.log
+.circleci/20210517215946/electron/main.old.log
+.circleci/20210517215946/events.json
+.circleci/20210517215946/fuse/calls.err.txt
+.circleci/20210517215946/fuse/count.err.txt
+.circleci/20210517215946/fuse/filename.err.txt
+.circleci/20210517215946/fuse/stacks.err.txt
+.circleci/20210517215946/fuse/time.err.txt
+.circleci/20210517215946/fuse/volumes-list.json
+.circleci/20210517215946/fuse/workspace.code-workspace
+.circleci/20210517215946/hyperv/events.csv.cmd.txt
+.circleci/20210517215946/hyperv/Get-VMSwitch.cmd.txt
+.circleci/20210517215946/hyperv/Get-VMSwitch.err.txt
+.circleci/20210517215946/hyperv/Get-VMSwitch.json.cmd.txt
+.circleci/20210517215946/hyperv/Get-VMSwitch.json.err.txt
+.circleci/20210517215946/hyperv/hcsdiag.cmd.txt
+.circleci/20210517215946/hyperv/hcsdiag.err.txt
+.circleci/20210517215946/hyperv/linuxvm-com-port.json.cmd.txt
+.circleci/20210517215946/hyperv/linuxvm-com-port.json.err.txt
+.circleci/20210517215946/hyperv/linuxvm-dvd.json.cmd.txt
+.circleci/20210517215946/hyperv/linuxvm-dvd.json.err.txt
+.circleci/20210517215946/hyperv/linuxvm-firmware.json.cmd.txt
+.circleci/20210517215946/hyperv/linuxvm-firmware.json.err.txt
+.circleci/20210517215946/hyperv/linuxvm-harddisk.json.cmd.txt
+.circleci/20210517215946/hyperv/linuxvm-harddisk.json.err.txt
+.circleci/20210517215946/hyperv/linuxvm-memory.json.cmd.txt
+.circleci/20210517215946/hyperv/linuxvm-memory.json.err.txt
+.circleci/20210517215946/hyperv/linuxvm-network-adapter.json.cmd.txt
+.circleci/20210517215946/hyperv/linuxvm-network-adapter.json.err.txt
+.circleci/20210517215946/hyperv/linuxvm-processor.json.cmd.txt
+.circleci/20210517215946/hyperv/linuxvm-processor.json.err.txt
+.circleci/20210517215946/hyperv/linuxvm-scsi.json.cmd.txt
+.circleci/20210517215946/hyperv/linuxvm-scsi.json.err.txt
+.circleci/20210517215946/hyperv/linuxvm-security.json.cmd.txt
+.circleci/20210517215946/hyperv/linuxvm-security.json.err.txt
+.circleci/20210517215946/hyperv/pipes.txt
+.circleci/20210517215946/hyperv/pipes.txt.cmd.txt
+.circleci/20210517215946/hyperv/reg-hns.cmd.txt
+.circleci/20210517215946/hyperv/reg-hns.txt
+.circleci/20210517215946/hyperv/switch-dockernat.json.cmd.txt
+.circleci/20210517215946/hyperv/switch-dockernat.json.err.txt
+.circleci/20210517215946/hyperv/vmhost.json.cmd.txt
+.circleci/20210517215946/hyperv/vmhost.json.err.txt
+.circleci/20210517215946/hyperv/vms.json.cmd.txt
+.circleci/20210517215946/hyperv/vms.json.err.txt
+.circleci/20210517215946/info.json
+.circleci/20210517215946/log.txt
+.circleci/20210517215946/log/host/com.docker.backend.exe.log
+.circleci/20210517215946/log/host/com.docker.backend.exe.log.0
+.circleci/20210517215946/log/host/com.docker.backend.exe.log.1
+.circleci/20210517215946/log/host/com.docker.backend.exe.log.2
+.circleci/20210517215946/log/host/com.docker.backend.exe.log.3
+.circleci/20210517215946/log/host/com.docker.proxy.exe.log
+.circleci/20210517215946/log/host/com.docker.proxy.exe.log.0
+.circleci/20210517215946/log/host/com.docker.proxy.exe.log.1
+.circleci/20210517215946/log/host/vpnkit-bridge.exe.log
+.circleci/20210517215946/log/host/vpnkit-bridge.exe.log.0
+.circleci/20210517215946/log/host/vpnkit-bridge.exe.log.1
+.circleci/20210517215946/log/host/vpnkit-bridge.exe.log.2
+.circleci/20210517215946/log/host/vpnkit-bridge.exe.log.3
+.circleci/20210517215946/log/host/vpnkit-bridge.exe.log.4
+.circleci/20210517215946/log/vm/binfmt.log
+.circleci/20210517215946/log/vm/binfmt.out.log
+.circleci/20210517215946/log/vm/containerd.log
+.circleci/20210517215946/log/vm/containerd.log.0
+.circleci/20210517215946/log/vm/diagnose.out.log
+.circleci/20210517215946/log/vm/dns-forwarder.log
+.circleci/20210517215946/log/vm/docker.log
+.circleci/20210517215946/log/vm/docker.log.0
+.circleci/20210517215946/log/vm/docker.log.1
+.circleci/20210517215946/log/vm/docker.log.2
+.circleci/20210517215946/log/vm/docker.log.3
+.circleci/20210517215946/log/vm/docker.out.log
+.circleci/20210517215946/log/vm/dockerd.log
+.circleci/20210517215946/log/vm/dockerd.log.0
+.circleci/20210517215946/log/vm/dockerd.log.1
+.circleci/20210517215946/log/vm/dockerd.log.2
+.circleci/20210517215946/log/vm/dockerd.log.3
+.circleci/20210517215946/log/vm/dockerd.log.4
+.circleci/20210517215946/log/vm/dockerd.log.5
+.circleci/20210517215946/log/vm/dockerd.log.6
+.circleci/20210517215946/log/vm/dockerd.log.7
+.circleci/20210517215946/log/vm/dockerd.log.8
+.circleci/20210517215946/log/vm/kmsg.log
+.circleci/20210517215946/log/vm/kmsg.log.0
+.circleci/20210517215946/log/vm/kmsg.log.1
+.circleci/20210517215946/log/vm/kmsg.log.2
+.circleci/20210517215946/log/vm/kmsg.log.3
+.circleci/20210517215946/log/vm/kmsg.log.4
+.circleci/20210517215946/log/vm/kmsg.log.5
+.circleci/20210517215946/log/vm/kmsg.log.6
+.circleci/20210517215946/log/vm/kmsg.log.7
+.circleci/20210517215946/log/vm/kmsg.log.8
+.circleci/20210517215946/log/vm/kubelet.log
+.circleci/20210517215946/log/vm/kubelet.log.0
+.circleci/20210517215946/log/vm/kubelet.log.1
+.circleci/20210517215946/log/vm/kubelet.log.2
+.circleci/20210517215946/log/vm/lifecycle-server.log
+.circleci/20210517215946/log/vm/lifecycle-server.log.0
+.circleci/20210517215946/log/vm/lifecycle-server.log.1
+.circleci/20210517215946/log/vm/lifecycle-server.log.2
+.circleci/20210517215946/log/vm/lifecycle-server.log.3
+.circleci/20210517215946/log/vm/lifecycle-server.out.log
+.circleci/20210517215946/log/vm/memlogd.log
+.circleci/20210517215946/log/vm/nfs-common.out.log
+.circleci/20210517215946/log/vm/nginx.out.log
+.circleci/20210517215946/log/vm/onboot.000-metadata.log
+.circleci/20210517215946/log/vm/onboot.003-bridge.log
+.circleci/20210517215946/log/vm/rpcbind.out.log
+.circleci/20210517215946/log/vm/socks.log
+.circleci/20210517215946/log/vm/volume-contents.out.log
+.circleci/20210517215946/log/vm/vpnkit-forwarder.log
+.circleci/20210517215946/log/vm/vpnkit-tap-vsockd.log
+.circleci/20210517215946/logs/0.txt
+.circleci/20210517215946/logs/ca-certificates.crt
+.circleci/20210517215946/logs/install-log.1.txt
+.circleci/20210517215946/logs/install-log.10.txt
+.circleci/20210517215946/logs/install-log.11.txt
+.circleci/20210517215946/logs/install-log.12.txt
+.circleci/20210517215946/logs/install-log.13.txt
+.circleci/20210517215946/logs/install-log.14.txt
+.circleci/20210517215946/logs/install-log.2.txt
+.circleci/20210517215946/logs/install-log.3.txt
+.circleci/20210517215946/logs/install-log.4.txt
+.circleci/20210517215946/logs/install-log.5.txt
+.circleci/20210517215946/logs/install-log.6.txt
+.circleci/20210517215946/logs/install-log.7.txt
+.circleci/20210517215946/logs/install-log.8.txt
+.circleci/20210517215946/logs/install-log.txt
+.circleci/20210517215946/logs/log.58.txt
+.circleci/20210517215946/logs/log.59.txt
+.circleci/20210517215946/logs/log.60.txt
+.circleci/20210517215946/logs/log.61.txt
+.circleci/20210517215946/logs/log.62.txt
+.circleci/20210517215946/logs/log.txt
+.circleci/20210517215946/logs/log109.txt
+.circleci/20210517215946/logs/service.0.txt
+.circleci/20210517215946/logs/service.txt
+.circleci/20210517215946/mutagen/sync-list.err.txt
+.circleci/20210517215946/mutagen/sync.err.txt
+.circleci/20210517215946/network/dns-servers.cmd.txt
+.circleci/20210517215946/network/dns-servers.txt
+.circleci/20210517215946/network/Get-NetConnectionProfile.cmd.txt
+.circleci/20210517215946/network/Get-NetConnectionProfile.json
+.circleci/20210517215946/network/Get-NetConnectionProfile.json.cmd.txt
+.circleci/20210517215946/network/Get-NetConnectionProfile.txt
+.circleci/20210517215946/network/Get-NetIPAddress.json
+.circleci/20210517215946/network/Get-NetIPAddress.json.cmd.txt
+.circleci/20210517215946/network/Get-NetIPInterface.cmd.txt
+.circleci/20210517215946/network/Get-NetIPInterface.json
+.circleci/20210517215946/network/Get-NetIPInterface.json.cmd.txt
+.circleci/20210517215946/network/Get-NetIPInterface.txt
+.circleci/20210517215946/network/Get-NetNat.cmd.txt
+.circleci/20210517215946/network/Get-NetNat.json.cmd.txt
+.circleci/20210517215946/network/Get-NetNatStaticMapping.cmd.txt
+.circleci/20210517215946/network/Get-NetNatStaticMapping.json.cmd.txt
+.circleci/20210517215946/network/Get-NetRoute.cmd.txt
+.circleci/20210517215946/network/Get-NetRoute.json
+.circleci/20210517215946/network/Get-NetRoute.json.cmd.txt
+.circleci/20210517215946/network/Get-NetRoute.txt
+.circleci/20210517215946/network/hosts
+.circleci/20210517215946/network/internet-settings.cmd.txt
+.circleci/20210517215946/network/internet-settings.txt
+.circleci/20210517215946/network/ipconfig.cmd.txt
+.circleci/20210517215946/network/ipconfig.txt
+.circleci/20210517215946/network/netstat-abno.cmd.txt
+.circleci/20210517215946/network/netstat-abno.txt
+.circleci/20210517215946/network/netstat-rs.cmd.txt
+.circleci/20210517215946/network/netstat-rs.txt
+.circleci/20210517215946/network/nslookup-google.cmd.txt
+.circleci/20210517215946/network/nslookup-google.err.txt
+.circleci/20210517215946/network/nslookup-google.txt
+.circleci/20210517215946/network/nslookup-localhost.cmd.txt
+.circleci/20210517215946/network/nslookup-localhost.err.txt
+.circleci/20210517215946/network/nslookup-localhost.txt
+.circleci/20210517215946/port-forward.json
+.circleci/20210517215946/stacks.txt
+.circleci/20210517215946/system.json
+.circleci/20210517215946/system/bcdedit.cmd.txt
+.circleci/20210517215946/system/bcdedit.txt
+.circleci/20210517215946/system/CurrentVersion.txt
+.circleci/20210517215946/system/CurrentVersion.txt.cmd.txt
+.circleci/20210517215946/system/df.cmd.txt
+.circleci/20210517215946/system/df.txt
+.circleci/20210517215946/system/drivers.csv
+.circleci/20210517215946/system/drivers.csv.cmd.txt
+.circleci/20210517215946/system/features.json.cmd.txt
+.circleci/20210517215946/system/features.json.err.txt
+.circleci/20210517215946/system/hotfixes.json
+.circleci/20210517215946/system/hotfixes.json.cmd.txt
+.circleci/20210517215946/system/MpComputerStatus.txt
+.circleci/20210517215946/system/MpComputerStatus.txt.cmd.txt
+.circleci/20210517215946/system/processes.json
+.circleci/20210517215946/system/processes.json.cmd.txt
+.circleci/20210517215946/system/programs.json
+.circleci/20210517215946/system/programs.json.cmd.txt
+.circleci/20210517215946/system/PSVersionTable.cmd.txt
+.circleci/20210517215946/system/PSVersionTable.txt
+.circleci/20210517215946/system/services.json
+.circleci/20210517215946/system/services.json.cmd.txt
+.circleci/20210517215946/system/start-options.cmd.txt
+.circleci/20210517215946/system/start-options.txt
+.circleci/20210517215946/system/tasklist.cmd.txt
+.circleci/20210517215946/system/tasklist.txt
+.circleci/20210517215946/system/ubr.cmd.txt
+.circleci/20210517215946/system/ubr.txt
+.circleci/20210517215946/system/win32_baseboard.json
+.circleci/20210517215946/system/win32_baseboard.json.cmd.txt
+.circleci/20210517215946/system/win32_computersystem.json
+.circleci/20210517215946/system/win32_computersystem.json.cmd.txt
+.circleci/20210517215946/system/win32_operatingsystem.json
+.circleci/20210517215946/system/win32_operatingsystem.json.cmd.txt
+.circleci/20210517215946/system/win32_processor.json
+.circleci/20210517215946/system/win32_processor.json.cmd.txt
+.circleci/20210517215946/wsl/docker-desktop/dmesg.txt.cmd.txt
+.circleci/20210517215946/wsl/docker-desktop/dmesg.txt.err.txt
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/.vs/Solution/v16/.suo
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/RuntimeComponent1/bin/x64/Debug/Microsoft.UI.Xaml.Markup.winmd
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/RuntimeComponent1/bin/x64/Debug/RuntimeComponent1.dll
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/RuntimeComponent1/bin/x64/Debug/RuntimeComponent1.pdb
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/RuntimeComponent1/bin/x64/Debug/RuntimeComponent1.pri
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/RuntimeComponent1/Class1.vb
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/RuntimeComponent1/My Project/AssemblyInfo.vb
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/RuntimeComponent1/obj/project.assets.json
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/RuntimeComponent1/obj/RuntimeComponent1.vbproj.nuget.dgspec.json
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/RuntimeComponent1/obj/RuntimeComponent1.vbproj.nuget.g.props
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/RuntimeComponent1/obj/RuntimeComponent1.vbproj.nuget.g.targets
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/RuntimeComponent1/obj/x64/Debug/.NETCore,Version=v5.0.AssemblyAttributes.vb
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/RuntimeComponent1/obj/x64/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/RuntimeComponent1/obj/x64/Debug/embed/embed.resfiles
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/RuntimeComponent1/obj/x64/Debug/embed/embed.resfiles.intermediate
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/RuntimeComponent1/obj/x64/Debug/excluded.layout.resfiles
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/RuntimeComponent1/obj/x64/Debug/excluded.layout.resfiles.intermediate
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/RuntimeComponent1/obj/x64/Debug/filtered.layout.resfiles
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/RuntimeComponent1/obj/x64/Debug/filtered.layout.resfiles.intermediate
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/RuntimeComponent1/obj/x64/Debug/MultipleQualifiersPerDimensionFound.txt
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/RuntimeComponent1/obj/x64/Debug/pri.resfiles
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/RuntimeComponent1/obj/x64/Debug/pri.resfiles.intermediate
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/RuntimeComponent1/obj/x64/Debug/priconfig.xml
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/RuntimeComponent1/obj/x64/Debug/priconfig.xml.intermediate
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/RuntimeComponent1/obj/x64/Debug/qualifiers.txt
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/RuntimeComponent1/obj/x64/Debug/qualifiers.txt.intermediate
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/RuntimeComponent1/obj/x64/Debug/resources.resfiles
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/RuntimeComponent1/obj/x64/Debug/resources.resfiles.intermediate
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/RuntimeComponent1/obj/x64/Debug/RuntimeComponent1.dll
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/RuntimeComponent1/obj/x64/Debug/RuntimeComponent1.pdb
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/RuntimeComponent1/obj/x64/Debug/RuntimeComponent1.vbproj.CopyComplete
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/RuntimeComponent1/obj/x64/Debug/RuntimeComponent1.vbproj.CoreCompileInputs.cache
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/RuntimeComponent1/obj/x64/Debug/RuntimeComponent1.vbproj.FileListAbsolute.txt
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/RuntimeComponent1/obj/x64/Debug/RuntimeComponent1.vbprojAssemblyReference.cache
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/RuntimeComponent1/obj/x64/Debug/RuntimeComponent1.xml
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/RuntimeComponent1/obj/x64/Debug/unfiltered.layout.resfiles
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/RuntimeComponent1/obj/x64/Debug/unfiltered.layout.resfiles.intermediate
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/RuntimeComponent1/RuntimeComponent1.vbproj
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/Solution.sln
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/UpgradeLog.htm
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/UpgradeLog2.htm
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/UpgradeLog3.htm
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/WpfApp2/App.config
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/WpfApp2/Application.xaml
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/WpfApp2/Application.xaml.vb
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/WpfApp2/MainWindow.xaml
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/WpfApp2/MainWindow.xaml.vb
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/WpfApp2/My Project/AssemblyInfo.vb
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/WpfApp2/My Project/MyExtensions/MyWpfExtension.vb
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/WpfApp2/My Project/Resources.Designer.vb
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/WpfApp2/My Project/Resources.resx
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/WpfApp2/My Project/Settings.Designer.vb
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/WpfApp2/My Project/Settings.settings
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/WpfApp2/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.vb
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/WpfApp2/obj/Debug/Application.g.i.vb
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/WpfApp2/obj/Debug/Application.g.vb
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/WpfApp2/obj/Debug/DesignTimeResolveAssemblyReferences.cache
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/WpfApp2/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/WpfApp2/obj/Debug/MainWindow.g.i.vb
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/WpfApp2/obj/Debug/MainWindow.g.vb
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/WpfApp2/obj/Debug/WpfApp2.vbprojAssemblyReference.cache
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/WpfApp2/obj/Debug/WpfApp2_MarkupCompile.cache
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/WpfApp2/obj/Debug/WpfApp2_MarkupCompile.i.cache
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/WpfApp2/obj/Debug/WpfApp2_MarkupCompile.i.lref
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/WpfApp2/obj/Debug/WpfApp2_MarkupCompile.lref
+.circleci/6d15af64-176c-496d-b583-fd2ae21d4df4@1/remote-tutorials/containers/S-1-5-21-2536402715-3794635629-4141356857-1002/AppData/Local/WpfApp2/WpfApp2.vbproj
+.gitattributes
+.vs – zástupce.lnk
+.vscode-brightscript-language/
+1569 – zástupce.lnk
+1569/
+1_Test suite (1).txt
+1_Test suite.txt
+32PHS5302 - Shortcut.lnk
+adaptive-icon.png
+android-chrome-384x384.png – zástupce.lnk
+api-guidelines-vNext.zip
+api-guidelines-vNext/azure/Guidelines.md
+api-guidelines-vNext/CONTRIBUTING.md
+api-guidelines-vNext/Guidelines.md
+api-guidelines-vNext/license.txt
+api-guidelines-vNext/README.md
+apple-touch-icon-1024x1024.png
+azure - kopie (2).txt
+azure - kopie.txt
+azure-pipelines-expanded.yaml
+azure.txt
+bits-295.rar
+C – zástupce.lnk
+cert-0x03D040290C9C73515952A73EFAC6E7EABC47 (1).pem.p12 – zástupce.lnk
+CKPj8VL6ZPjJ1LjQZq1UVFaJRWw.svg
+desktop-development/
+desktop-trampoline/desktop-trampoline.exe
+desktop.ini
+Desktop/-(Feet-Food-Risk)-/--app= [Fake-Hand-Error]_/api-guidelines-vNext/azure/Guidelines.md
+Desktop/-(Feet-Food-Risk)-/--app= [Fake-Hand-Error]_/api-guidelines-vNext/CONTRIBUTING.md
+Desktop/-(Feet-Food-Risk)-/--app= [Fake-Hand-Error]_/api-guidelines-vNext/Guidelines.md
+Desktop/-(Feet-Food-Risk)-/--app= [Fake-Hand-Error]_/api-guidelines-vNext/license.txt
+Desktop/-(Feet-Food-Risk)-/--app= [Fake-Hand-Error]_/api-guidelines-vNext/README.md
+Desktop/-(Feet-Food-Risk)-/--app= [Fake-Hand-Error]_/C/
+Desktop/-(Feet-Food-Risk)-/--app= [Fake-Hand-Error]_/settings.json
+Docker Desktop.lnk
+explore – zástupce.lnk
+getting-started/$.html
+getting-started/--.-C-000.code-workspace
+GitHub Desktop.lnk
+github-issues-integration.md
+ibm.svg
+initializeLog.txt
+IntelliTraceCollection – zástupce.lnk
+l-auth.url
+meta name=theme-color content=#fff.png
+New Virtual Machine – zástupce (2).lnk
+New Virtual Machine – zástupce.lnk
+nic.c/
+Nový textový dokument.txt
+NovýZip.zip
+Office.lnk
+OneDrive – zástupce.lnk
+opengraph_insiders.png
+opensource.guide – zástupce.lnk
+Osobní - Edge.lnk
+Plocha/Windows/1029/StructuredQuerySchema.bin
+Plocha/Windows/ActionCenterCache/microsoft-windowscommunicationsapps_8wekyb3d8bbwe-microsoft-windowslive-mail_645_0.png
+Plocha/Windows/ActionCenterCache/microsoft-windowscommunicationsapps_8wekyb3d8bbwe-microsoft-windowslive-mail_645_1.png
+Plocha/Windows/ActionCenterCache/microsoft-windowscommunicationsapps_8wekyb3d8bbwe-microsoft-windowslive-mail_645_2.png
+Plocha/Windows/ActionCenterCache/microsoft-windowscommunicationsapps_8wekyb3d8bbwe-microsoft-windowslive-mail_645_3.png
+Plocha/Windows/ActionCenterCache/microsoft-windowscommunicationsapps_8wekyb3d8bbwe-microsoft-windowslive-mail_646_0.png
+Plocha/Windows/ActionCenterCache/microsoft-windowscommunicationsapps_8wekyb3d8bbwe-microsoft-windowslive-mail_646_1.png
+Plocha/Windows/ActionCenterCache/microsoft-windowscommunicationsapps_8wekyb3d8bbwe-microsoft-windowslive-mail_646_2.png
+Plocha/Windows/ActionCenterCache/microsoft-windowscommunicationsapps_8wekyb3d8bbwe-microsoft-windowslive-mail_646_3.png
+Plocha/Windows/AppCache/osd.js
+Plocha/Windows/BackgroundSlideshow/Slideshow.library-ms
+Plocha/Windows/Caches/cversions.1.db
+Plocha/Windows/Caches/cversions.3.db
+Plocha/Windows/Caches/{3DA71D5A-20CC-432F-A115-DFE92379E91F}.3.ver0x000000000000002c.db
+Plocha/Windows/Caches/{AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x000000000000000a.db
+Plocha/Windows/Caches/{AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x000000000000000b.db
+Plocha/Windows/Explorer/ExplorerStartupLog.etl
+Plocha/Windows/Explorer/ExplorerStartupLog_RunOnce.etl
+Plocha/Windows/Explorer/iconcache_1280.db
+Plocha/Windows/Explorer/iconcache_16.db
+Plocha/Windows/Explorer/iconcache_1920.db
+Plocha/Windows/Explorer/iconcache_256.db
+Plocha/Windows/Explorer/iconcache_2560.db
+Plocha/Windows/Explorer/iconcache_32.db
+Plocha/Windows/Explorer/iconcache_48.db
+Plocha/Windows/Explorer/iconcache_768.db
+Plocha/Windows/Explorer/iconcache_96.db
+Plocha/Windows/Explorer/iconcache_custom_stream.db
+Plocha/Windows/Explorer/iconcache_exif.db
+Plocha/Windows/Explorer/iconcache_idx.db
+Plocha/Windows/Explorer/iconcache_sr.db
+Plocha/Windows/Explorer/iconcache_wide.db
+Plocha/Windows/Explorer/iconcache_wide_alternate.db
+Plocha/Windows/Explorer/thumbcache_1280.db
+Plocha/Windows/Explorer/thumbcache_16.db
+Plocha/Windows/Explorer/thumbcache_1920.db
+Plocha/Windows/Explorer/thumbcache_256.db
+Plocha/Windows/Explorer/thumbcache_2560.db
+Plocha/Windows/Explorer/thumbcache_32.db
+Plocha/Windows/Explorer/thumbcache_48.db
+Plocha/Windows/Explorer/thumbcache_768.db
+Plocha/Windows/Explorer/thumbcache_96.db
+Plocha/Windows/Explorer/thumbcache_custom_stream.db
+Plocha/Windows/Explorer/thumbcache_exif.db
+Plocha/Windows/Explorer/thumbcache_idx.db
+Plocha/Windows/Explorer/thumbcache_sr.db
+Plocha/Windows/Explorer/thumbcache_wide.db
+Plocha/Windows/Explorer/thumbcache_wide_alternate.db
+Plocha/Windows/INetCache/IE/7HEY5WH4/20201029_Patch[1].cache
+Plocha/Windows/INetCache/IE/7HEY5WH4/ShippedFlights[1].cache
+Plocha/Windows/INetCache/IE/7HEY5WH4/x[1]
+Plocha/Windows/INetCache/IE/7R1I8E6V/dyntelconfig[1].cache
+Plocha/Windows/INetCache/IE/7R1I8E6V/IEInstrumentation2021[1].htm
+Plocha/Windows/INetCache/IE/7R1I8E6V/RemoteSettings_Common_16.0[1].cache
+Plocha/Windows/INetCache/IE/7R1I8E6V/suggestions[1].cs-CZ
+Plocha/Windows/INetCache/IE/KYU3EB6Z/commit-msg[2]
+Plocha/Windows/INetCache/IE/KYU3EB6Z/CompatibilityList[1].cache
+Plocha/Windows/INetCache/IE/KYU3EB6Z/favicon[1].ico
+Plocha/Windows/INetCache/IE/KYU3EB6Z/iecompatviewlist[1].xml
+Plocha/Windows/INetCache/IE/KYU3EB6Z/known_providers_download_v1[1].xml
+Plocha/Windows/INetCache/IE/KYU3EB6Z/l1[1].dat
+Plocha/Windows/INetCache/IE/KYU3EB6Z/Latest[1].cache
+Plocha/Windows/INetCache/IE/KYU3EB6Z/rules[1].xml
+Plocha/Windows/INetCache/IE/Q5N006UO/21.062.0328[2].json
+Plocha/Windows/INetCache/IE/Q5N006UO/DisabledFlights[1].cache
+Plocha/Windows/INetCache/IE/Q5N006UO/dyntelconfig[1].cache
+Plocha/Windows/INetCache/IE/Q5N006UO/RemoteSettings_Installer[1].cache
+Plocha/Windows/INetCache/Low/MSIMGSIZ.DAT
+Plocha/Windows/INetCache/Low/SmartScreenCache.dat
+Plocha/Windows/INetCache/Low/SuggestedSites.dat
+Plocha/Windows/INetCookies/deprecated.cookie
+Plocha/Windows/Notifications/wpndatabase.db
+Plocha/Windows/Notifications/wpndatabase.db-shm
+Plocha/Windows/Notifications/wpndatabase.db-wal
+Plocha/Windows/Notifications/wpnidm/1196d63c.jpg
+Plocha/Windows/Notifications/wpnidm/29612d95.jpg
+Plocha/Windows/Notifications/wpnidm/4254396c.jpg
+Plocha/Windows/Notifications/wpnidm/4683b0e5.jpg
+Plocha/Windows/Notifications/wpnidm/5c1f6175.jpg
+Plocha/Windows/Notifications/wpnidm/5fc0968a.jpg
+Plocha/Windows/Notifications/wpnidm/6973a695.jpg
+Plocha/Windows/Notifications/wpnidm/842761b9.jpg
+Plocha/Windows/Notifications/wpnidm/8fce0f3.jpg
+Plocha/Windows/Notifications/wpnidm/ae9fa87c.jpg
+Plocha/Windows/Notifications/wpnidm/da083887.jpg
+Plocha/Windows/PowerShell/StartupProfileData-NonInteractive
+Plocha/Windows/Safety/edge/remote/script
+Plocha/Windows/Safety/edge/remote/script_325959408320881770987398580906187707347.rel.v2
+Plocha/Windows/Safety/edge/remote/synchronousLookupUris
+Plocha/Windows/Safety/edge/remote/synchronousLookupUris_637546721459259975
+Plocha/Windows/Safety/edge/remote/synchronousLookupUris_637551112002787322
+Plocha/Windows/Safety/edge/remote/topTraffic
+Plocha/Windows/Safety/edge/remote/topTraffic_637480914991619069
+Plocha/Windows/Safety/shell/remote/script
+Plocha/Windows/Safety/shell/remote/script_325785655767390484056490918594026283942.rel.v2
+Plocha/Windows/SettingSync/BrowserSettings-WinInet-Internet-Explorer.metadata
+Plocha/Windows/SettingSync/metastore/edb.chk
+Plocha/Windows/SettingSync/metastore/edb.log
+Plocha/Windows/SettingSync/metastore/edb0002F.log
+Plocha/Windows/SettingSync/metastore/edb00030.log
+Plocha/Windows/SettingSync/metastore/edb00031.log
+Plocha/Windows/SettingSync/metastore/edb00032.log
+Plocha/Windows/SettingSync/metastore/edbres00001.jrs
+Plocha/Windows/SettingSync/metastore/edbres00002.jrs
+Plocha/Windows/SettingSync/metastore/edbtmp.log
+Plocha/Windows/SettingSync/metastore/meta.edb
+Plocha/Windows/SettingSync/metastore/meta.jfm
+Plocha/Windows/SettingSync/remotemetastore/v1/edb.chk
+Plocha/Windows/SettingSync/remotemetastore/v1/edb.log
+Plocha/Windows/SettingSync/remotemetastore/v1/edb0000C.log
+Plocha/Windows/SettingSync/remotemetastore/v1/edb0000D.log
+Plocha/Windows/SettingSync/remotemetastore/v1/edb0000E.log
+Plocha/Windows/SettingSync/remotemetastore/v1/edbres00001.jrs
+Plocha/Windows/SettingSync/remotemetastore/v1/edbres00002.jrs
+Plocha/Windows/SettingSync/remotemetastore/v1/edbtmp.log
+Plocha/Windows/SettingSync/remotemetastore/v1/meta.edb
+Plocha/Windows/SettingSync/remotemetastore/v1/meta.jfm
+Plocha/Windows/SettingSync/wininet-internet-explorer.metadata
+Plocha/Windows/Shell/DefaultLayouts.xml
+Plocha/Windows/Themes/Custom.theme
+Plocha/Windows/Themes/Roamed.theme
+Plocha/Windows/Themes/RoamedThemeFiles/DesktopBackground/20200727.jpg
+Plocha/Windows/usrClass.dat{d340d3b0-a073-11eb-9ee5-0021862ad170}.TM.blf
+Plocha/Windows/usrClass.dat{d340d3b0-a073-11eb-9ee5-0021862ad170}.TMContainer00000000000000000001.regtrans-ms
+Plocha/Windows/usrClass.dat{d340d3b0-a073-11eb-9ee5-0021862ad170}.TMContainer00000000000000000002.regtrans-ms
+Plocha/Windows/WebCache/TempCompact.jfm
+Plocha/Windows/WebCache/V01.chk
+Plocha/Windows/WebCache/V0100045.log
+Plocha/Windows/WebCache/V0100046.log
+Plocha/Windows/WebCache/V0100047.log
+Plocha/Windows/WebCache/V01res00001.jrs
+Plocha/Windows/WebCache/V01res00002.jrs
+Plocha/Windows/WinX/Group1/1 - Desktop.lnk
+Plocha/Windows/WinX/Group2/1 - Run.lnk
+Plocha/Windows/WinX/Group2/2 - Search.lnk
+Plocha/Windows/WinX/Group2/3 - Windows Explorer.lnk
+Plocha/Windows/WinX/Group2/4 - Control Panel.lnk
+Plocha/Windows/WinX/Group2/5 - Task Manager.lnk
+Plocha/Windows/WinX/Group3/01 - Command Prompt.lnk
+Plocha/Windows/WinX/Group3/01a - Windows PowerShell.lnk
+Plocha/Windows/WinX/Group3/02 - Command Prompt.lnk
+Plocha/Windows/WinX/Group3/02a - Windows PowerShell.lnk
+Plocha/Windows/WinX/Group3/03 - Computer Management.lnk
+Plocha/Windows/WinX/Group3/04 - Disk Management.lnk
+Plocha/Windows/WinX/Group3/04-1 - NetworkStatus.lnk
+Plocha/Windows/WinX/Group3/05 - Device Manager.lnk
+Plocha/Windows/WinX/Group3/06 - SystemAbout.lnk
+Plocha/Windows/WinX/Group3/07 - Event Viewer.lnk
+Plocha/Windows/WinX/Group3/08 - PowerAndSleep.lnk
+Plocha/Windows/WinX/Group3/09 - Mobility Center.lnk
+Plocha/Windows/WinX/Group3/10 - AppsAndFeatures.lnk
+Podfile.lock
+README.md
+REGULAR_TOWN_HALLS – zástupce.lnk
+sc-image402.png
+semantic-release-logo - kopie.svg
+semantic-release-logo.png
+semantic-release-logo.svg
+skaffold – zástupce.lnk
+solutions-modern-cicd-anthos – zástupce.lnk
+starter-workflows – zástupce.lnk
+SurfEasy VPN - kopie.lnk
+Test suite/1_Initialize job.txt
+Test suite/2_Checkout microsoftvscode-pull-request-github@main to s.txt
+Test suite/3_Upgrade Node.txt
+Test suite/4_Install Yarn.txt
+Test suite/5_Install dependencies.txt
+Test suite/6_Run test suite.txt
+Test suite/7_Publish test results.txt
+Test suite/8_Post-job Checkout microsoftvscode-pull-request-github@main.txt
+Test suite/9_Finalize Job.txt
