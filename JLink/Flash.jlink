@@ -1,0 +1,6 @@
+r
+loadbin output/$1$2.bin, 0x00
+verifybin output/$1$2.bin, 0x00
+r
+g
+q

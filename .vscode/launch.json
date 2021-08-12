@@ -1,0 +1,21 @@
+{
+	"configurations": [
+		{
+			"name": "ARM-Debug",
+			"cwd": "${workspaceRoot}",
+			"executable": "${workspaceRoot}\\output\\$1$2.elf",
+			"svdFile": "c:\\Users\\$$\\AppData\\Roaming\\Code\\User\\globalStorage\\semyon-ivanov.cortex-builder\\SVD\\STM32F030\\STM32F030.svd",
+			"request": "launch",
+			"type": "cortex-debug",
+			"servertype": "jlink",
+			"device": "cortex-m0",
+			"interface": "swd",
+			"runToMain": true,
+			"configFiles": [
+				"",
+				""
+			]
+		}
+	],
+	"version": "0.2.0"
+}

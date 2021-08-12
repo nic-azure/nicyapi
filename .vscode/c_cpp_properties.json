@@ -1,0 +1,20 @@
+{
+	"configurations": [
+		{
+			"name": "Cortex-Builder",
+			"compilerPath": "",
+			"defines": [
+				"STM32F030xC"
+			],
+			"includePath": [
+				"c:\\Users\\$$\\AppData\\Roaming\\Code\\User\\globalStorage\\semyon-ivanov.cortex-builder\\Core",
+				"c:\\Users\\$$\\AppData\\Roaming\\Code\\User\\globalStorage\\semyon-ivanov.cortex-builder\\Include\\stm32f030xc",
+				"c:\\$\\CHANGELOG\\$$\\build\\.cmake\\api\\v1\\query\\client-vscode\\--hubot-master\\hubot-redis-brain\\stressapptest\\$1$2\\user"
+			],
+			"cStandard": "c11",
+			"cppStandard": "c++17",
+			"intelliSenseMode": "${default}"
+		}
+	],
+	"version": 4
+}
